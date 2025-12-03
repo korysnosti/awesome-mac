@@ -59,7 +59,7 @@
     - [Редактори регулярних виразів](#редактори-регулярних-виразів)
     - [Розробка та аналіз API](#розробка-та-аналіз-api)
     - [Аналіз мережі](#аналіз-мережі)
-    - [Фреймворки для гібридних додатків](#фреймворки-для-гібридних-додатків)
+    - [Фреймворки для гібридних застосунків](#фреймворки-для-гібридних-застосунків)
     - [Контроль версій](#контроль-версій)
     - [Віртуалізація](#віртуалізація)
     - [Бази даних](#бази-даних)
@@ -102,9 +102,9 @@
 - [Ігрове програмне забезпечення](#ігрове-програмне-забезпечення)
 - [Програми для віддаленого входу](#програми-для-віддаленого-входу)
 - [Плагіни QuickLook](#плагіни-quicklook)
-- [Сторонні магазини додатків](#сторонні-магазини-додатків)
+- [Сторонні магазини застосунків](#сторонні-магазини-застосунків)
     - [Менеджери пакетів](#менеджери-пакетів)
-- [Сайти завантаження додатків для Mac](#сайти-завантаження-додатків-для-mac)
+- [Сайти завантаження застосунків для Mac](#сайти-завантаження-застосунків-для-mac)
   - [Справжні сайти](#справжні-сайти)
   - [Список заблокованих сайтів із піратським ПЗ](#список-заблокованих-сайтів-із-піратським-пз)
 - [Подкасти](#подкасти)
@@ -121,7 +121,7 @@
 ### Текстові редактори
 
 * [Aurora Editor](https://auroraeditor.com/) - Легкий редактор коду (IDE) для macOS. [![Open-Source Software][OSS Icon]](https://github.com/AuroraEditor/AuroraEditor)
-* [Bootstrap Studio](https://bootstrapstudio.io/) - Потужний десктопний додаток для створення адаптивних вебсайтів за допомогою фреймворку Bootstrap.
+* [Bootstrap Studio](https://bootstrapstudio.io/) - Потужний десктопний застосунок для створення адаптивних вебсайтів за допомогою фреймворку Bootstrap.
 * [Brackets](http://brackets.io) - Сучасний текстовий редактор з відкритим кодом, що розуміє вебдизайн. [![Open-Source Software][OSS Icon]](https://github.com/brackets-cont/brackets/) ![Freeware][Freeware Icon]
 * [CodeEdit](https://www.codeedit.app/) - Легкий, нативний редактор. Відкритий код. Безкоштовно назавжди. [![Open-Source Software][OSS Icon]](https://github.com/CodeEditApp/CodeEdit) ![Freeware][Freeware Icon]
 * [CotEditor](https://coteditor.com) - Легкий текстовий редактор для macOS. [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
@@ -160,16 +160,16 @@
 
 * [Archimedes](https://furnacecreek.org/archimedes/) - Нативний Markdown-редактор для macOS, орієнтований на математичні тексти з підтримкою вбудованого LaTeX.
 * [EME](https://github.com/egoist/eme) - Markdown-редактор з відкритим кодом та інтерфейсом, схожим на Chrome. ![Open-Source Software][OSS Icon]
-* [iA Writer](https://ia.net/writer/) - Письменницький додаток з акцентом на простоту та дизайн.
+* [iA Writer](https://ia.net/writer/) - Письменницький застосунок з акцентом на простоту та дизайн.
 * [LightPaper](https://getlightpaper.com/) - Простий, красивий, але потужний текстовий редактор для вашого Mac.
 * [Marked 2](http://marked2app.com/) - Це попередній перегляд Markdown з елегантним і потужним набором інструментів для всіх письменників.
 * [MarkText](https://github.com/marktext/marktext) - Markdown-редактор наступного покоління, що працює на платформах MacOS, Windows та Linux. [![Open-Source Software][OSS Icon]](https://github.com/marktext/marktext) ![Freeware][Freeware Icon]
 * [Marp](https://marp.app) - Програма для створення презентацій у Markdown з підтримкою різних платформ. [![Open-Source Software][OSS Icon]](https://github.com/marp-team/marp) ![Freeware][Freeware Icon]
 * [Marxico](https://marxi.co/) - Вишуканий Markdown-редактор для Evernote. Надійне зберігання та синхронізація.
-* [MWeb](http://www.mweb.im/) - Професійний додаток для письма в Markdown та генератор статичних блогів.
+* [MWeb](http://www.mweb.im/) - Професійний застосунок для письма в Markdown та генератор статичних блогів.
 * [Obsidian](https://obsidian.md) - Другий мозок, для вас, назавжди.
 * [Typora](http://www.typora.io/) - Справді мінімалістичний Markdown-редактор з безшовним попереднім переглядом у реальному часі.
-* [Ulysses](https://www.ulyssesapp.com/features/) - Найкращий додаток для письма для Mac, iPad та iPhone.
+* [Ulysses](https://www.ulyssesapp.com/features/) - Найкращий застосунок для письма для Mac, iPad та iPhone.
 * [Zettlr](https://www.zettlr.com/) - Markdown-редактор для 21-го століття. [![Open-Source Software][OSS Icon]](https://github.com/Zettlr/Zettlr) ![Freeware][Freeware Icon]
 
 ### Нотатки
@@ -178,47 +178,47 @@
 * [Agenda](https://agenda.com/) - Програма для нотаток з орієнтацією на дати для планування та документування ваших проєктів. [![App Store][app-store Icon]](https://itunes.apple.com/app/id1287445660?mt=12)
 * [Anytype](https://anytype.io/) - Альтернатива Notion з акцентом на конфіденційність, локальним зберіганням, опціональною синхронізацією та підтримкою власних серверів. ![Freeware][Freeware Icon]
 * [AppFlowy](https://www.appflowy.io/) - Альтернатива Notion з відкритим кодом. [![Open-Source Software][OSS Icon]](https://github.com/AppFlowy-IO/appflowy) ![Freeware][Freeware Icon]
-* [Bear Writer](http://www.bear-writer.com/) - Красивий, гнучкий додаток для написання нотаток та прози. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)
-* [Boostnote](https://boostnote.io/) - Додаток для нотаток, створений для програмістів. [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote)
+* [Bear Writer](http://www.bear-writer.com/) - Красивий, гнучкий застосунок для написання нотаток та прози. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)
+* [Boostnote](https://boostnote.io/) - Застосунок для нотаток, створений для програмістів. [![Open-Source Software][OSS Icon]](https://github.com/BoostIO/Boostnote)
 * [Craft](https://www.craft.do/) - Створення нотаток та написання текстів зроблено красиво. [![App Store][app-store Icon]](https://apps.apple.com/se/app/craft-docs-and-notes-editor/id1487937127)
 * [Dnote](https://www.getdnote.com/) - Простий блокнот командного рядка з синхронізацією між пристроями та веб-інтерфейсом. [![Open-Source Software][OSS Icon]](https://github.com/dnote/dnote) ![Freeware][Freeware Icon]
 * [Email Me](https://emailmeapp.net/) - Відправляйте собі електронні листи та багато іншого одним дотиком, нативно на macOS, iOS та WatchOS. [![App Store][app-store Icon]](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587)
-* [Evernote](https://evernote.com/) - Відомий додаток для нотаток, доступний на багатьох платформах. ![Freeware][Freeware Icon]
+* [Evernote](https://evernote.com/) - Відомий застосунок для нотаток, доступний на багатьох платформах. ![Freeware][Freeware Icon]
 * [FSNotes](https://fsnot.es/) - File System Notes — це сучасний менеджер нотаток, нативний для macOS та iOS. [![Open-Source Software][OSS Icon]](https://github.com/glushchenko/fsnotes) [![App Store][app-store Icon]](https://apps.apple.com/gb/app/fsnotes/id1277179284?mt=12)
-* [Gooba](https://goobapp.com/) - Додаток для письма та менеджер завдань з простим та інтерактивним дизайном.
-* [Inkdrop](https://www.inkdrop.info/) - Додаток-блокнот для любителів Markdown, побудований на базі Electron.
+* [Gooba](https://goobapp.com/) - Застосунок для письма та менеджер завдань з простим та інтерактивним дизайном.
+* [Inkdrop](https://www.inkdrop.info/) - Застосунок-блокнот для любителів Markdown, побудований на базі Electron.
 * [Joplin](https://joplinapp.org/) - Кросплатформний блокнот з відкритим кодом, підтримкою markdown та керуванням списками справ. [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
 * [Logseq](https://logseq.com/) - База знань з відкритим кодом, що ставить конфіденційність на перше місце. [![OSS][OSS Icon]](https://github.com/logseq/logseq) ![Freeware][Freeware Icon]
-* [MarginNote 4](https://marginnote.com/) - Додаток для глибокого читання PDF та EPUB, навчання, керування та створення нотаток.
+* [MarginNote 4](https://marginnote.com/) - Застосунок для глибокого читання PDF та EPUB, навчання, керування та створення нотаток.
 * [massCode](https://masscode.io/) - Кросплатформний менеджер фрагментів коду (сніпетів) з відкритим кодом та підтримкою markdown і mermaid. [![Open-Source Software][OSS Icon]](https://github.com/massCodeIO/massCode) ![Freeware][Freeware Icon]
-* [MiaoYan](https://miaoyan.app/) - Легкий Markdown-додаток, який допоможе вам писати чудові речення.
-* [Notable](https://github.com/notable/notable) - Додаток для нотаток на основі markdown, який не розчарує.
-* [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) - Додаток для нотаток. ![Freeware][Freeware Icon]
-* [Notes](http://www.get-notes.com/) - Чистий, простий додаток для нотаток. [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
+* [MiaoYan](https://miaoyan.app/) - Легкий Markdown-застосунок, який допоможе вам писати чудові речення.
+* [Notable](https://github.com/notable/notable) - Застосунок для нотаток на основі markdown, який не розчарує.
+* [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) - Застосунок для нотаток. ![Freeware][Freeware Icon]
+* [Notes](http://www.get-notes.com/) - Чистий, простий застосунок для нотаток. [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
 * [NotePlan 3](https://noteplan.co/) - Ваші завдання, нотатки та календар у вигляді текстових markdown файлів. [![App Store][app-store Icon]](https://apps.apple.com/en/app/noteplan-3/id1505432629)
 * [NotePlus](https://noteplus.com/) - Справді нативна нотатка та клієнт LLM.
 * [Noteship](https://noteship.com) - Перетворюйте нотатки на знання (вигляд таблиці, резюме заголовків тощо). Працює офлайн, все зберігається локально. [![App Store][app-store Icon]](https://apps.apple.com/us/app/noteship/id1571711347?mt=12)
 * [Notion](https://www.notion.so/) - Робочий простір "все в одному" для нотаток, завдань, вікі та баз даних.
-* [OneNote](https://www.onenote.com/) - Додаток для нотаток від Microsoft. ![Freeware][Freeware Icon]
+* [OneNote](https://www.onenote.com/) - Застосунок для нотаток від Microsoft. ![Freeware][Freeware Icon]
 * [OutlineEdit 3](https://outlineedit.com) - Повнофункціональний редактор структури (outline) для всіх, хто любить чудово структуровані нотатки. [![App Store][app-store Icon]](https://apps.apple.com/us/app/outlineedit-3/id1608887438)
-* [Saber](https://saber.adil.hanney.org/) - Кросплатформний додаток для рукописних та текстових нотаток. Підтримує імпорт зображень та PDF, може синхронізуватися. [![App Store][app-store Icon]](https://apps.apple.com/us/app/saber/id1671523739)[![Open-Source Software][OSS Icon]](https://github.com/adil192/saber)
+* [Saber](https://saber.adil.hanney.org/) - Кросплатформний застосунок для рукописних та текстових нотаток. Підтримує імпорт зображень та PDF, може синхронізуватися. [![App Store][app-store Icon]](https://apps.apple.com/us/app/saber/id1671523739)[![Open-Source Software][OSS Icon]](https://github.com/adil192/saber)
 * [SideNotes](https://www.apptorium.com/sidenotes) - Швидкі нотатки збоку екрана з підтримкою Markdown.
-* [Standard Notes](https://standardnotes.com/) - Додаток для нотаток з наскрізним шифруванням для цифровістів та професіоналів. [![Open-Source Software][OSS Icon]](https://github.com/standardnotes/app) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/jonhadfield/awesome-standard-notes#readme)
+* [Standard Notes](https://standardnotes.com/) - Застосунок для нотаток з наскрізним шифруванням для цифровістів та професіоналів. [![Open-Source Software][OSS Icon]](https://github.com/standardnotes/app) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/jonhadfield/awesome-standard-notes#readme)
 * [QOwnNotes](http://www.qownnotes.org/) - Блокнот з відкритим кодом з підтримкою markdown та менеджером списків справ. [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
 * [Quick Note](https://quicknoteapp.com) - Кольорові стікери в рядку меню. [![App Store][app-store Icon]](https://apps.apple.com/in/app/quick-note-in-the-menu/id1472935217?mt=12)
 * [Quiver](http://happenapps.com/#quiver) - Поєднуйте текст, код, Markdown та LaTeX в одній нотатці з попереднім переглядом у реальному часі.
-* [VNote](https://app.vnote.fun/) - Додаток на базі Qt, розроблений для забезпечення приємної платформи для ведення нотаток з чудовим досвідом редагування. [![Open-Source Software][OSS Icon]](https://github.com/vnotex/vnote/) ![Freeware][Freeware Icon]
+* [VNote](https://app.vnote.fun/) - Застосунок на базі Qt, розроблений для забезпечення приємної платформи для ведення нотаток з чудовим досвідом редагування. [![Open-Source Software][OSS Icon]](https://github.com/vnotex/vnote/) ![Freeware][Freeware Icon]
 
 ### Ведення журналу
 
-* [Day One](https://dayoneapp.com/) - Чудовий додаток для ведення щоденника з використанням тексту, фотографій, відео, аудіо, даних про місцезнаходження тощо. [![App Store][app-store Icon]](https://apps.apple.com/us/app/day-one/id1055511498?mt=12)
-* [Journey](https://journey.cloud/) - Додаток для ведення щоденника з багатьма функціями та додатками для кожної доступної платформи. [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-diary-journal/id1300202543)
+* [Day One](https://dayoneapp.com/) - Чудовий застосунок для ведення щоденника з використанням тексту, фотографій, відео, аудіо, даних про місцезнаходження тощо. [![App Store][app-store Icon]](https://apps.apple.com/us/app/day-one/id1055511498?mt=12)
+* [Journey](https://journey.cloud/) - Застосунок для ведення щоденника з багатьма функціями та застосунками для кожної доступної платформи. [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-diary-journal/id1300202543)
 * [Life Note](https://mylifenote.ai) - Щоденник з найвидатнішими умами людської історії. ![Freeware][Freeware Icon]
 * [linked](https://github.com/lostdesign/linked) - Прив'язуйте свої думки до днів, не відволікаючись. ![Open-Source Software][OSS Icon]
 
 ### Письменництво
 
-* [Retrotype](https://retrotype.ink/) - Веселий та мінімалістичний додаток для письма, який нагадує справжню друкарську машинку. ![Freeware][Freeware Icon]
+* [Retrotype](https://retrotype.ink/) - Веселий та мінімалістичний застосунок для письма, який нагадує справжню друкарську машинку. ![Freeware][Freeware Icon]
 * [novelWriter](https://github.com/vkbo/novelWriter) - Текстовий редактор з відкритим кодом для написання романів з мінімальним синтаксисом, подібним до markdown. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - Квінтесенція текстового процесора для письменників.
 * [THORN](https://thorn.so) - Все необхідне для особистого письма та створення вебсайтів.
@@ -228,7 +228,7 @@
 * [Calibre](http://calibre-ebook.com/) - Безкоштовний менеджер електронних книг та читалка з відкритим кодом. [![OSS][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
 * [Clearview](http://www.clearview-reader.com/clearview/) - Читалка електронних книг у стилі вкладок для PDF, EPUB (без DRM), CHM та MOBI. [![App Store][app-store Icon]](https://apps.apple.com/us/app/clearview/id557090104?mt=12)
 * [iChm](https://github.com/NSGod/ichm) - Читалка електронних книг для файлів CHM (Microsoft Compiled HTML help). [![Open-Source Software][OSS Icon]](https://github.com/NSGod/ichm) ![Freeware][Freeware Icon]
-* [Kindle App](https://www.amazon.com/l/16571048011) - Офіційний додаток для читання Kindle від Amazon.
+* [Kindle App](https://www.amazon.com/l/16571048011) - Офіційний застосунок для читання Kindle від Amazon.
 * [Klib](http://klib.me/) - Новий спосіб керування виділеннями для Kindle та iBooks. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1196268448?mt=12&at=1000lv4R&ct=klib_me)
 * [Koodo Reader](https://www.koodoreader.com/en) - Універсальна читалка електронних книг, що підтримує понад 15 форматів. ![Freeware][Freeware Icon] [![OSS][OSS Icon]](https://github.com/koodo-reader/koodo-reader)
 * [Readest](https://github.com/readest/readest) - Readest — це читалка електронних книг з кросплатформним доступом, потужними інструментами та інтуїтивно зрозумілим інтерфейсом. [![Open-Source Software][OSS Icon]](https://github.com/readest/readest) ![Freeware][Freeware Icon]
@@ -258,7 +258,7 @@
 * [Chmox](http://chmox.sourceforge.net/) - Читайте документи CHM на вашому Mac. ![Freeware][Freeware Icon]
 * [Highlights](https://highlightsapp.net) - PDF-рідер для досліджень на Mac, iPad та iPhone. ![Freeware][Freeware Icon]
 * [PDF Expert](https://pdfexpert.com/) - Читайте, анотуйте та редагуйте PDF, змінюйте текст та зображення.
-* [PDF Pals](https://pdfpals.com) - Додаток для спілкування з PDF для Mac. Жодних обмежень на розмір файлу!
+* [PDF Pals](https://pdfpals.com) - Застосунок для спілкування з PDF для Mac. Жодних обмежень на розмір файлу!
 * [PDFgear](https://www.pdfgear.com/) - PDF-редактор з інтегрованим ШІ. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/pdfgear-pdf-editor-for-adobe/id1615523079)
 * [PDF Reader Pro](http://www.pdfreaderpro.com) - Ви можете переглядати, створювати, підписувати, конвертувати та стискати будь-які PDF документи. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/pdf-reader-pro-your-pdf-office/id825459243?mt=12)
 * [Skim](http://skim-app.sourceforge.net) - PDF-рідер та інструмент для нотаток для OS X. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
@@ -279,7 +279,7 @@
 
 * [Android Studio](https://developer.android.com/studio/index.html) - Офіційна IDE для Android на базі Intellij IDEA. [![Open-Source Software][OSS Icon]](http://tools.android.com/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/balsikandar/Android-Studio-Plugins#readme)
 * [CodeRunner](https://coderunnerapp.com) - Легкий багатомовний текстовий редактор для програмування та IDE.
-* [Deco IDE](https://www.decoide.org) - Найкраща IDE для створення додатків React Native. [![Open-Source Software][OSS Icon]](https://github.com/decosoftware/deco-ide) ![Freeware][Freeware Icon]
+* [Deco IDE](https://www.decoide.org) - Найкраща IDE для створення застосунків React Native. [![Open-Source Software][OSS Icon]](https://github.com/decosoftware/deco-ide) ![Freeware][Freeware Icon]
 * [Eclipse](https://www.eclipse.org) - Популярна IDE з відкритим кодом для Java з підтримкою плагінів для багатьох мов. ![OSS][OSS Icon] ![Freeware][Freeware Icon]
 * [Espresso](http://espressoapp.com/) - Веб-редактор для Mac повернувся. Для людей, які створюють чудові, інноваційні та швидкі вебсайти.
 * [BeagleEditor](https://github.com/beaglesoftware/editor) - Редактор з такими функціями, як підсвічування синтаксису, плагіни та... - Трохи страшненький, але працює.
@@ -307,7 +307,7 @@
 
 ### Утиліти для розробників
 
-* [BetterRename](http://www.publicspace.net/BetterRename/) - Найпотужніший і найповніший додаток для перейменування файлів на ринку Mac. [![App Store][app-store Icon]](https://apps.apple.com/us/app/better-rename-11/id1501308038)
+* [BetterRename](http://www.publicspace.net/BetterRename/) - Найпотужніший і найповніший застосунок для перейменування файлів на ринку Mac. [![App Store][app-store Icon]](https://apps.apple.com/us/app/better-rename-11/id1501308038)
 * [Beyond Compare](http://www.scootersoftware.com/) - Порівнюйте файли та папки за допомогою потужних команд. ![Freeware][Freeware Icon]
 * [Bidbar](https://www.getbidbar.com) - Керуйте bash-командами з рядка меню та запускайте їх за допомогою комбінацій клавіш.
 * [Cacher](https://www.cacher.io/) - Хмарний менеджер фрагментів коду (сніпетів) із синхронізацією Gist та підтримкою багатьох платформ.
@@ -316,10 +316,10 @@
 * [Conduktor](https://www.conduktor.io) - Десктопний клієнт Kafka. ![Freeware][Freeware Icon]
 * [CubicBezier](https://github.com/isaced/CubicBezier) - Генератор кубічних кривих Безьє для macOS. [![Open-Source Software][OSS Icon]](https://github.com/isaced/CubicBezier) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/cubicbezier/id1228492117?mt=12)
 * [Cutter](https://cutter.re/) - Потужний багатоплатформний інструмент зворотної розробки (reverse engineering). ![Open-Source Software][OSS Icon]
-* [DevHub](https://wangchujiang.com/DevHub/) - Багатофункціональний офлайн-додаток для розробників. ![OSS][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/devhub/id6476452351)
+* [DevHub](https://wangchujiang.com/DevHub/) - Багатофункціональний офлайн-застосунок для розробників. ![OSS][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/devhub/id6476452351)
 * [Dash](https://kapeli.com/dash) - Чудовий браузер документації API та менеджер сніпетів коду. ![Freeware][Freeware Icon]
 * [Deeplink Buddy](https://deeplinkbuddy.com) - Менеджер діплінків (deeplinks), створений розробником для розробників.
-* [DiffMerge](http://sourcegear.com/diffmerge/) - Додаток для візуального порівняння та злиття файлів. ![Freeware][Freeware Icon]
+* [DiffMerge](http://sourcegear.com/diffmerge/) - Застосунок для візуального порівняння та злиття файлів. ![Freeware][Freeware Icon]
 * [EnvPane](https://github.com/hschmidt/EnvPane) - Панель налаштувань OS X для змінних середовища. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
 * [FinderGo](https://github.com/onmyway133/FinderGo) - Швидке відкриття терміналу з Finder. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/onmyway133/FinderGo)
 * [FlyEnv](https://www.flyenv.com) - Інструмент "все-в-одному", що інтегрує мови, бази даних та сервіси для швидкого налаштування локального середовища повноцінної розробки (full-stack). [![Open-Source Software][OSS Icon]](https://github.com/xpf0000/FlyEnv)
@@ -334,16 +334,16 @@
 * [ImHex](https://imhex.werwolv.net/) - Hex-редактор для зворотної розробки та програмістів. [![OSS][OSS Icon]](https://github.com/WerWolv/ImHex/) ![Freeware][Freeware Icon]
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Безкоштовна програма для перевірки посилань на вебсайтах для Mac. ![Freeware][Freeware Icon]
 * [Kaleidoscope](https://www.kaleidoscopeapp.com/) - Порівнюйте текст, зображення та папки.
-* [Koala](http://koala-app.com) - GUI додаток для компіляції Less, Sass, Compass та CoffeeScript. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
-* [Loca Studio](https://www.cunningo.com/locastudio/index.html) - Аналізуйте, переглядайте та редагуйте переклади додатків. [![App Store][app-store Icon]](https://apps.apple.com/app/id1465684707)
+* [Koala](http://koala-app.com) - GUI застосунок для компіляції Less, Sass, Compass та CoffeeScript. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
+* [Loca Studio](https://www.cunningo.com/locastudio/index.html) - Аналізуйте, переглядайте та редагуйте переклади застосунків. [![App Store][app-store Icon]](https://apps.apple.com/app/id1465684707)
 * [LINQPad](https://www.linqpad.net/) - Блокнот (scratchpad) для розробки .NET з миттєвим зворотним зв'язком, підтримкою запитів LINQ та підключенням до баз даних. ![Freeware][Freeware Icon]
-* [MacSystemColors](https://github.com/kaunteya/MacSystemColors) - Додаток для Mac, який показує всі системні кольори у світлому та темному режимах для розробників Cocoa. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kaunteya/MacSystemColors)
+* [MacSystemColors](https://github.com/kaunteya/MacSystemColors) - Застосунок для Mac, який показує всі системні кольори у світлому та темному режимах для розробників Cocoa. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kaunteya/MacSystemColors)
 * [Medio](https://github.com/nuance-dev/medio) - Нативний, легкий інструмент порівняння тексту (diff) з чистим інтерфейсом та підсвічуванням у реальному часі. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nuance-dev/medio)
 * [MJML](https://mjmlio.github.io/mjml-app/) - Створюйте адаптивні електронні листи з семантичним синтаксисом та багатими компонентами. [![OSS][OSS Icon]](https://github.com/mjmlio/mjml) ![Freeware][Freeware Icon]
 * [NameQuick](https://namequick.app) - Інструмент перейменування файлів на базі ШІ для macOS.
-* [PaintCode](https://www.paintcodeapp.com/) - Додаток для векторного малювання, який генерує код Objective-C або Swift у реальному часі.
+* [PaintCode](https://www.paintcodeapp.com/) - Застосунок для векторного малювання, який генерує код Objective-C або Swift у реальному часі.
 * [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - Інспектуйте системні буфери обміну. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Pasteboard-Viewer) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1499215709)
-* [PPRows](https://github.com/jkpang/PPRows) - Додаток для підрахунку кількості написаних вами рядків коду. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jkpang/PPRows)
+* [PPRows](https://github.com/jkpang/PPRows) - Застосунок для підрахунку кількості написаних вами рядків коду. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jkpang/PPRows)
 * [ProcessSpy](https://process-spy.app/) - Чистий і потужний монітор процесів.
 * [PushMate](https://pushmate.app) - Вирішує поширені проблеми з push-повідомленнями на macOS.
 * [Responsively](https://responsively.app) - Обов'язковий інструмент для веб-розробників для швидшої розробки адаптивних сайтів. [![Open-Source Software][OSS Icon]](https://github.com/responsively-org/responsively-app) ![Freeware][Freeware Icon]
@@ -352,17 +352,17 @@
 * [Site Sucker](https://ricks-apps.com/osx/sitesucker/) - Автоматично завантажує вебсайти. [![App Store][app-store Icon]](https://itunes.apple.com/in/app/sitesucker/id442168834?mt=12)
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - Простий у використанні менеджер фрагментів коду (сніпетів).
 * [Solarized](http://ethanschoonover.com/solarized) - Чиста та красива колірна тема. Добре працює з iTerm, продуктами JetBrains, Vim тощо.
-* [StarUML](http://staruml.io) - Потужний UML додаток.
+* [StarUML](http://staruml.io) - Потужний UML застосунок.
 * [Swiftify](https://objectivec2swift.com/#/xcode-extension/) - Конвертер коду з Objective-C у Swift та розширення для Xcode і Finder.
 * [SwiftPlantUML](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) - Генеруйте та переглядайте діаграми класів з Xcode для коду Swift. [![Open-Source Software][OSS Icon]](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) ![Freeware][Freeware Icon]
-* [SwitchHosts](https://oldj.github.io/SwitchHosts/) - Безкоштовний додаток з відкритим кодом для керування та перемикання hosts. [![Open-Source Software][OSS Icon]](https://github.com/oldj/SwitchHosts) ![Freeware][Freeware Icon]
-* [SYM](https://github.com/zqqf16/SYM) - GUI додаток для символізації логів збоїв (crash log) iOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zqqf16/SYM)
-* [Testpiler](https://furnacecreek.org/testpiler/) - Testpiler — це додаток, який дозволяє легко конвертувати модульні тести, написані на Swift, з XCTest на новий фреймворк Swift Testing.
+* [SwitchHosts](https://oldj.github.io/SwitchHosts/) - Безкоштовний застосунок з відкритим кодом для керування та перемикання hosts. [![Open-Source Software][OSS Icon]](https://github.com/oldj/SwitchHosts) ![Freeware][Freeware Icon]
+* [SYM](https://github.com/zqqf16/SYM) - GUI застосунок для символізації логів збоїв (crash log) iOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zqqf16/SYM)
+* [Testpiler](https://furnacecreek.org/testpiler/) - Testpiler — це застосунок, який дозволяє легко конвертувати модульні тести, написані на Swift, з XCTest на новий фреймворк Swift Testing.
 * [TeXstudio](http://www.texstudio.org) - Інтегроване середовище для створення документів LaTeX. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/texstudio/) ![Freeware][Freeware Icon]
 * [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Використовуйте Touch Bar на будь-якому Mac. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Visual Paradigm](https://www.visual-paradigm.com/) - Платформа моделювання UML, SysML, BPMN "все-в-одному".
-* [Woodpecker](http://www.woodpeck.cn) - Переглядайте файли пісочниці додатків iOS, UserDefaults, елементи Keychain на Mac. [![App Store][app-store Icon]](https://itunes.apple.com/app/woodpecker/id1333548463)
-* [WWDC](https://github.com/insidegui/WWDC) - Неофіційний додаток WWDC для Mac OS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/insidegui/WWDC)
+* [Woodpecker](http://www.woodpeck.cn) - Переглядайте файли пісочниці застосунків iOS, UserDefaults, елементи Keychain на Mac. [![App Store][app-store Icon]](https://itunes.apple.com/app/woodpecker/id1333548463)
+* [WWDC](https://github.com/insidegui/WWDC) - Неофіційний застосунок WWDC для Mac OS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/insidegui/WWDC)
 * [Xcodes](https://github.com/RobotsAndPencils/XcodesApp) - Встановлюйте та перемикайтеся між кількома версіями Xcode. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/RobotsAndPencils/XcodesApp)
 * [XCSnippetsApp](https://github.com/MarcoEidinger/XCSnippetsApp) - Досліджуйте, переглядайте та редагуйте сніпети коду Swift та iOS для Xcode. [![OSS][OSS Icon]](https://github.com/MarcoEidinger/XCSnippetsApp) ![Freeware][Freeware Icon]
 * [zeplin](https://www.zeplin.io/) - Інструмент для спільної роботи дизайнерів та розробників. ![Freeware][Freeware Icon]
@@ -380,16 +380,16 @@
 ### Розробка та аналіз API
 
 * [bruno](https://www.usebruno.com/) - Bruno — це офлайн, швидкий та git-friendly клієнт API з відкритим кодом. ![Freeware][Freeware Icon]
-* [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - Безкоштовний, нативний додаток Apple OS X з відкритим кодом для тестування HTTP/REST ендпоінтів. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
+* [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - Безкоштовний, нативний застосунок Apple OS X з відкритим кодом для тестування HTTP/REST ендпоінтів. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
 * [HTTPie](https://httpie.io/) - HTTPie робить API простими та інтуїтивно зрозумілими для тих, хто створює інструменти нашого часу. ![Freeware][Freeware Icon]
 * [Hoppscotch](https://docs.hoppscotch.io/documentation/clients/desktop) - Легкий, швидкий та повнофункціональний інструмент налагодження API. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hoppscotch/hoppscotch)
 * [Insomnia](https://insomnia.rest/) - Найбільш інтуїтивний кросплатформний REST API клієнт. [![Open-Source Software][OSS Icon]](https://github.com/getinsomnia/insomnia) ![Freeware][Freeware Icon]
 * [Katalon Studio](https://www.katalon.com) - Спростіть автоматизовані тести API, Web та Mobile. ![Freeware][Freeware Icon]
-* [Maestro](https://maestro.dev/) - End-to-end тестування для мобільних та веб-додатків. Підтримує iOS, Android, React Native, Flutter та інші. [![Open-Source Software][OSS Icon]](https://github.com/mobile-dev-inc/maestro) ![Freeware][Freeware Icon]
+* [Maestro](https://maestro.dev/) - End-to-end тестування для мобільних та веб-застосунків. Підтримує iOS, Android, React Native, Flutter та інші. [![Open-Source Software][OSS Icon]](https://github.com/mobile-dev-inc/maestro) ![Freeware][Freeware Icon]
 * [Paw](https://paw.cloud/) - Просунутий HTTP клієнт.
 * [Postman](https://www.getpostman.com) - GUI платформа для розробки API. ![Freeware][Freeware Icon]
 * [Reqable](https://reqable.com) - Інструмент розробки API наступного покоління, просунутий проксі для налагодження API та REST клієнт. ![Freeware][Freeware Icon]
-* [ReqRes](https://reqresapp.com/) - Нативний додаток macOS для моніторингу, налагодження та імітації (mock) HTTP(S) запитів та відповідей. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/OloApps/ReqRes)
+* [ReqRes](https://reqresapp.com/) - Нативний застосунок macOS для моніторингу, налагодження та імітації (mock) HTTP(S) запитів та відповідей. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/OloApps/ReqRes)
 * [Requestly](https://requestly.io) - Легкий Git-Friendly клієнт API з відкритим кодом, створений для сучасних розробників. [![Open-Source Software][OSS Icon]](https://github.com/requestly/requestly) ![Freeware][Freeware Icon]
 * [Trayce](https://trayce.dev) - Легкий інструмент для моніторингу трафіку контейнерів Docker із вбудованим HTTP-клієнтом .bru. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/evanrolfe/trayce_gui)
 * [Yaak](https://yaak.app) - Сучасний клієнт API, що підтримує кілька протоколів, використання офлайн та інтеграцію з Git. [![Open-Source Software][OSS Icon]](https://github.com/mountain-loop/yaak)
@@ -406,21 +406,21 @@
 * [Wireshark](https://www.wireshark.org) - Найвідоміший та широко використовуваний у світі аналізатор мережевих протоколів. [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
 * [Apidog](https://www.apidog.com/) - Робочий простір "все-в-одному" для проєктування, документації, налагодження, імітації та тестування API.
 
-### Фреймворки для гібридних додатків
+### Фреймворки для гібридних застосунків
 
-* [AppJS](http://appjs.com/) - Легка бібліотека JavaScript UI для створення мобільних веб-додатків, які поводяться як нативні додатки. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/appjs/appjs)
-* [create-dmg](https://github.com/sindresorhus/create-dmg) - Створюйте гарний DMG для вашого macOS додатка за лічені секунди. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/create-dmg) ![Freeware][Freeware Icon]
-* [Electrino](https://github.com/pojala/electrino) - Десктопне середовище виконання для веб-додатків, що використовує системний браузерний рушій. [![OSS][OSS Icon]](https://github.com/pojala/electrino) ![Freeware][Freeware Icon]
-* [Electron](http://electron.atom.io) - Створюйте кросплатформні десктопні додатки за допомогою JavaScript, HTML та CSS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/electron/electron)
-* [ionic](http://ionicframework.com/) - Створюйте нативні та веб-додатки за допомогою Angular та відкритих веб-технологій. [![OSS][OSS Icon]](https://github.com/driftyco/ionic) ![Freeware][Freeware Icon]
+* [AppJS](http://appjs.com/) - Легка бібліотека JavaScript UI для створення мобільних веб-застосунків, які поводяться як нативні застосунки. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/appjs/appjs)
+* [create-dmg](https://github.com/sindresorhus/create-dmg) - Створюйте гарний DMG для вашого macOS застосунка за лічені секунди. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/create-dmg) ![Freeware][Freeware Icon]
+* [Electrino](https://github.com/pojala/electrino) - Десктопне середовище виконання для веб-застосунків, що використовує системний браузерний рушій. [![OSS][OSS Icon]](https://github.com/pojala/electrino) ![Freeware][Freeware Icon]
+* [Electron](http://electron.atom.io) - Створюйте кросплатформні десктопні застосунки за допомогою JavaScript, HTML та CSS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/electron/electron)
+* [ionic](http://ionicframework.com/) - Створюйте нативні та веб-застосунки за допомогою Angular та відкритих веб-технологій. [![OSS][OSS Icon]](https://github.com/driftyco/ionic) ![Freeware][Freeware Icon]
 * [MacGap](http://macgapproject.github.io/) - Легкий JavaScript API для інтеграції з OS X. [![OSS][OSS Icon]](https://github.com/MacGapProject) ![Freeware][Freeware Icon]
-* [nw.js](http://nwjs.io) - Створюйте десктопні додатки за допомогою HTML та JavaScript. [![OSS][OSS Icon]](https://github.com/nwjs/nw.js) ![Freeware][Freeware Icon]
-* [Qt](https://www.qt.io) - Кросплатформний фреймворк додатків.
-* [React Native for Ubuntu](https://github.com/CanonicalLtd/react-native) - Створюйте десктопні додатки Ubuntu, використовуючи React Native. [![Open-Source Software][OSS Icon]](https://github.com/CanonicalLtd/react-native) ![Freeware][Freeware Icon]
-* [React Native macOS](https://github.com/ptmt/react-native-desktop) - Створюйте десктопні додатки OS X, використовуючи React Native та Cocoa. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ptmt/react-native-desktop)
+* [nw.js](http://nwjs.io) - Створюйте десктопні застосунки за допомогою HTML та JavaScript. [![OSS][OSS Icon]](https://github.com/nwjs/nw.js) ![Freeware][Freeware Icon]
+* [Qt](https://www.qt.io) - Кросплатформний фреймворк застосунків.
+* [React Native for Ubuntu](https://github.com/CanonicalLtd/react-native) - Створюйте десктопні застосунки Ubuntu, використовуючи React Native. [![Open-Source Software][OSS Icon]](https://github.com/CanonicalLtd/react-native) ![Freeware][Freeware Icon]
+* [React Native macOS](https://github.com/ptmt/react-native-desktop) - Створюйте десктопні застосунки OS X, використовуючи React Native та Cocoa. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ptmt/react-native-desktop)
 * [react-desktop](http://reactdesktop.js.org) - Компоненти інтерфейсу React для macOS Sierra. [![Open-Source Software][OSS Icon]](https://github.com/gabrielbull/react-desktop) ![Freeware][Freeware Icon]
 * [ReactXP](https://microsoft.github.io/reactxp/) - Платформа Microsoft для Web, iOS, Android та Windows UWP. [![OSS][OSS Icon]](https://github.com/microsoft/reactxp) ![Freeware][Freeware Icon]
-* [Tauri](https://tauri.app/) - Створюйте невеликі, швидкі, безпечні, кросплатформні додатки [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/tauri-apps/tauri)
+* [Tauri](https://tauri.app/) - Створюйте невеликі, швидкі, безпечні, кросплатформні застосунки [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/tauri-apps/tauri)
 
 ### Контроль версій
 
@@ -466,15 +466,15 @@
 
 * [Apache Directory Studio](https://directory.apache.org/studio/) - Браузер LDAP та клієнт Active Directory. [![Open-Source Software][OSS Icon]](https://directory.apache.org/sources.html) ![Freeware][Freeware Icon]
 * [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - Швидший, кращий і стабільніший менеджер робочого столу Redis. [![Open-Source Software][OSS Icon]](https://directory.apache.org/sources.html)![Freeware][Freeware Icon]
-* [Base 2](http://menial.co.uk/base/) - Додаток для створення, проєктування, редагування та перегляду файлів баз даних SQLite 3.
+* [Base 2](http://menial.co.uk/base/) - Застосунок для створення, проєктування, редагування та перегляду файлів баз даних SQLite 3.
 * [Beekeeper Studio](https://www.beekeeperstudio.io) - Плавний редактор SQL та менеджер баз даних. [![Open-Source Software][OSS Icon]](https://github.com/beekeeper-studio/beekeeper-studio) ![Freeware][Freeware Icon]
 * [Bdash](https://github.com/bdash-app/bdash) - Сучасна клієнтська програма SQL, підтримує MySQL, PostgreSQL (Redshift) та BigQuery. [![Open-Source Software][OSS Icon] ](https://github.com/bdash-app/bdash) ![Freeware][Freeware Icon]
-* [Chrome MySQL Admin](https://github.com/yoichiro/chrome_mysql_admin) - Потужний додаток Chrome для керування вашим MySQL. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
-* [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor дозволяє легко переглядати, редагувати та аналізувати дані додатків. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) ![Freeware][Freeware Icon]
+* [Chrome MySQL Admin](https://github.com/yoichiro/chrome_mysql_admin) - Потужний застосунок Chrome для керування вашим MySQL. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
+* [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor дозволяє легко переглядати, редагувати та аналізувати дані застосунків. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) ![Freeware][Freeware Icon]
 * [Dataflare](https://dataflare.app) - Простий клієнт бази даних, що підтримує Postgres, MySQL, DuckDB, libSQL, Cloudflare D1 та інші.
 * [DB Browser for SQLite](http://sqlitebrowser.org/) - Офіційна домашня сторінка DB Browser для SQLite. [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) ![Freeware][Freeware Icon]
 * [DBeaver](https://dbeaver.io/) - Універсальний SQL клієнт.
-* [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - Сучасний MySQL CRUD додаток. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/garrylachman/ElectroCRUD)
+* [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - Сучасний MySQL CRUD застосунок. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/garrylachman/ElectroCRUD)
 * [FastoNoSQL](https://fastonosql.com/) - Кросплатформний GUI клієнт для різних баз даних "ключ-значення". [![OSS][OSS Icon]](https://github.com/fastogt/fastonosql) ![Freeware][Freeware Icon]
 * [FastoRedis](https://fastoredis.com/) - Професійний кросплатформний інструмент керування GUI для Redis. [![Open-Source Software][OSS Icon]](https://github.com/fastogt/fastoredis) ![Freeware][Freeware Icon]
 * [JackDB](https://www.jackdb.com/) - Безпечне, спільне середовище для ваших запитів та аналізу даних. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
@@ -516,7 +516,7 @@
 * [KubeSwitch](https://www.kubeswitch.com/) - Найшвидший спосіб перемикання між контекстами та просторами імен Kubernetes на macOS. ![Freeware][Freeware Icon]
 * [Tabby (formerly Terminus)](https://github.com/Eugeny/tabby) - Безкоштовний термінальний інструмент, створений за допомогою TypeScript, сильно натхненний Hyper. [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
 * [Termius](https://www.termius.com/) - Красивий клієнт SSH та SFTP для Mac. Він також доступний для мобільних пристроїв. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/termius-terminal-ssh-client/id549039908)
-* [Warp](https://www.warp.dev) - Warp — це блискавично швидкий термінал на основі rust, переосмислений з нуля, щоб працювати як сучасний додаток.
+* [Warp](https://www.warp.dev) - Warp — це блискавично швидкий термінал на основі rust, переосмислений з нуля, щоб працювати як сучасний застосунок.
 * [Wave](https://github.com/wavetermdev/waveterm) - Термінал з відкритим кодом, який поєднує традиційні функції терміналу з графічними можливостями, такими як попередній перегляд файлів, перегляд веб-сторінок та допомога ШІ. [![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon]
 * [WezTerm](https://wezfurlong.org/wezterm/) - Кросплатформний емулятор терміналу та мультиплексор з прискоренням GPU, реалізований на Rust. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/wez/wezterm)
 
@@ -527,14 +527,14 @@
 * [Acorn](https://secure.flyingmeat.com/acorn/) - Чудовий редактор зображень та фотографій для Mac OS X, створений для людей.
 * [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Професійне програмне забезпечення для графічного дизайну для Mac.
 * [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Професійне програмне забезпечення для редагування зображень для Mac.
-* [Alchemy](http://al.chemy.org/) - Експериментальний додаток для малювання з відкритим кодом з акцентом на створення концептуального мистецтва. [![Open-Source Software][OSS Icon]](http://svn.al.chemy.org/)
-* [Amadine](https://amadine.com) - Додаток для векторного малювання з інтуїтивно зрозумілим інтерфейсом для графічних дизайнерів.
+* [Alchemy](http://al.chemy.org/) - Експериментальний застосунок для малювання з відкритим кодом з акцентом на створення концептуального мистецтва. [![Open-Source Software][OSS Icon]](http://svn.al.chemy.org/)
+* [Amadine](https://amadine.com) - Застосунок для векторного малювання з інтуїтивно зрозумілим інтерфейсом для графічних дизайнерів.
 * [Art Text 3](https://www.belightsoft.com/art-text/) - Програмне забезпечення графічного дизайну для летерингу, типографіки та текстових ефектів.
 * [Blender](https://www.blender.org/) - Безкоштовне програмне забезпечення для створення 3D з відкритим кодом. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
 * [Colorpicker](https://colorpicker.fr/) - Colorpicker — це повний інструмент для маніпуляцій з кольорами з відкритим кодом та функцією піпетки! [![Open-Source Software][OSS Icon]](https://github.com/toinane/colorpicker) ![Freeware][Freeware Icon]
 * [darktable](https://www.darktable.org) - darktable — це програма для фотографічного робочого процесу з відкритим кодом та розробник raw. [![Open-Source Software][OSS Icon]](https://github.com/darktable-org/darktable) ![Freeware][Freeware Icon]
-* [Droply](https://convergencelab.gumroad.com/l/droply) - Нативний додаток macOS для офлайн пакетного видалення фону зображень в один клік з винятковою якістю країв.
-* [Draw.io](https://github.com/jgraph/drawio-desktop) Drawio — це десктопний додаток для створення діаграм та білих дощок. [![Open-Source Software][OSS Icon]](https://github.com/jgraph/drawio-desktop)
+* [Droply](https://convergencelab.gumroad.com/l/droply) - Нативний застосунок macOS для офлайн пакетного видалення фону зображень в один клік з винятковою якістю країв.
+* [Draw.io](https://github.com/jgraph/drawio-desktop) Drawio — це десктопний застосунок для створення діаграм та білих дощок. [![Open-Source Software][OSS Icon]](https://github.com/jgraph/drawio-desktop)
 * [Figma](https://www.figma.com/) - Інструмент для спільного проєктування інтерфейсів, векторної графіки та прототипування UI. ![Freeware][Freeware Icon]
 * [FontForge](http://fontforge.github.io/) - Безкоштовний редактор шрифтів з відкритим кодом. [![Open-Source Software][OSS Icon]](https://github.com/fontforge) ![Freeware][Freeware Icon]
 * [GIMP](https://www.gimp.org) - Програма маніпуляції зображеннями GNU. [![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
@@ -550,8 +550,8 @@
 * [Pencil2D](https://www.pencil2d.org) - Легкий, інтуїтивно зрозумілий інструмент для створення 2D мальованої анімації. [![Open-Source Software][OSS Icon]](https://github.com/pencil2d/pencil) ![Freeware][Freeware Icon]
 * [Pixelmator](http://www.pixelmator.com/mac/) - Повнофункціональний редактор зображень для Mac.
 * [Pixen](https://pixenapp.com/mac/) - Нативний редактор піксель-арту та анімації для Mac.
-* [Principle](http://principleformac.com/) - Додаток для проєктування анімованих та інтерактивних інтерфейсів користувача.
-* [Pika](https://superhighfives.com/pika) - Додаток вибору кольору з відкритим кодом. [![Open-Source Software][OSS Icon]](https://github.com/superhighfives/pika) [![App Store][app-store Icon]](https://apps.apple.com/app/pika/id6739170421)
+* [Principle](http://principleformac.com/) - Застосунок для проєктування анімованих та інтерактивних інтерфейсів користувача.
+* [Pika](https://superhighfives.com/pika) - Застосунок вибору кольору з відкритим кодом. [![Open-Source Software][OSS Icon]](https://github.com/superhighfives/pika) [![App Store][app-store Icon]](https://apps.apple.com/app/pika/id6739170421)
 * [RawTherapee](https://rawtherapee.com/) - Потужна кросплатформна програма для обробки raw фотографій! ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
 * [ScreenToLayers](https://github.com/duyquoc/ScreenToLayers) - Легко експортуйте свій екран у шаруватий PSD файл. [![Open-Source Software][OSS Icon]](https://github.com/duyquoc/ScreenToLayers) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/screentolayers/id1077317077)
 * [Sketch](http://www.sketchapp.com/) - Професійний цифровий дизайн для mac.
@@ -561,7 +561,7 @@
     * [User Flows Plugin](https://abynim.github.io/UserFlows/) - Генерація діаграм потоків з Artboards. [![Open-Source Software][OSS Icon]](https://github.com/abynim/UserFlows) ![Freeware][Freeware Icon]
 * [SketchBook](https://www.sketchbook.com/?locale=en-US) - Програмне забезпечення для малювання концептуального дизайну, коміксів та цифрових ескізів. ![Freeware][Freeware Icon]
 * [Sparkle](https://sparkleapp.com/) - Професійний візуальний вебдизайн.
-* [System Color Picker](https://github.com/sindresorhus/System-Color-Picker) - Вибір кольору macOS як додаток з більшими можливостями. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/System-Color-Picker) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1545870783)
+* [System Color Picker](https://github.com/sindresorhus/System-Color-Picker) - Вибір кольору macOS як застосунок з більшими можливостями. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/System-Color-Picker) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1545870783)
 * [Tayasui Sketches](http://www.tayasui.com/sketches/) - Професійне програмне забезпечення для малювання.
 * [Vectornator: Design Software](https://www.vectornator.io/) - Найінтуїтивніше і найточніше програмне забезпечення для ілюстрації в Галактиці. [![App Store][app-store Icon]](https://apps.apple.com/us/app/vectornator-design-software/id1219074514)
 * [Vectr](https://vectr.com/) - Безкоштовний графічний редактор для легкого та інтуїтивного створення векторної графіки. ![Freeware][Freeware Icon]
@@ -570,13 +570,13 @@
 
 ### Прототипування та майндмеппінг
 
-* [Adobe XD](http://www.adobe.com/products/experience-design.html) - Інструмент для проєктування та прототипування вебсайтів і мобільних додатків.
+* [Adobe XD](http://www.adobe.com/products/experience-design.html) - Інструмент для проєктування та прототипування вебсайтів і мобільних застосунків.
 * [Axure RP 8](http://www.axure.com) - Прототипи, специфікації та діаграми в одному інструменті.
 * [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - Інструмент для створення каркасів, який допомагає працювати швидше та розумніше.
-* [Flinto](https://www.flinto.com/) - Швидко створюйте інтерактивні прототипи мобільних, настільних або веб-додатків.
+* [Flinto](https://www.flinto.com/) - Швидко створюйте інтерактивні прототипи мобільних, настільних або веб-застосунків.
 * [Framer](http://framerjs.com/) - Інструмент для інтерактивного прототипування.
-* [Justinmind](http://www.justinmind.com) - Платформа прототипування для веб та мобільних додатків.
-* [Kite](https://kiteapp.co/) - Потужний додаток для анімації та прототипування для Mac та iOS.
+* [Justinmind](http://www.justinmind.com) - Платформа прототипування для веб та мобільних застосунків.
+* [Kite](https://kiteapp.co/) - Потужний застосунок для анімації та прототипування для Mac та iOS.
 * [Lighten](https://lighten-test.xmind.net) - Найкращий спосіб прояснити мислення, підвищити продуктивність, проводити мозкові штурми та візуалізувати концепції.
 * [Marvel](https://marvelapp.com/) - Простий дизайн, прототипування та спільна робота.![Freeware][Freeware Icon]
 * [MindNode](https://mindnode.com/) - Програмне забезпечення для майндмеппінгу з акцентом на простоту та зручність використання.
@@ -591,7 +591,7 @@
 * [SimpleMind](https://simplemind.eu/) - Світовий лідер у кросплатформних інструментах Mind Mapping.
 * [WriteMapper](https://writemapper.com/) - Від ідеї до фінальної чернетки за найкоротший час.
 * [XMind](http://www.xmind.net) - Найпопулярніший інструмент для майндмеппінгу на планеті.
-* [Simple Diagrams](https://www.simplediagrams.com/) - Десктопний додаток для створення швидких, зрозумілих ескізів проблем, процесів, робочих процесів, ідей тощо, що виглядають як намальовані від руки!
+* [Simple Diagrams](https://www.simplediagrams.com/) - Десктопний застосунок для створення швидких, зрозумілих ескізів проблем, процесів, робочих процесів, ідей тощо, що виглядають як намальовані від руки!
 * [yGraph Editor](https://www.yworks.com/products/yed) - Високоякісні діаграми легко.
 
 ### Програми для захоплення екрана
@@ -607,33 +607,33 @@
 * [Lightshot](https://app.prntscr.com/) - Найшвидший спосіб зробити скріншот, що налаштовується. ![Freeware][Freeware Icon]
 * [Monosnap](https://monosnap.com/) - Робіть скріншоти. Малюйте на них. Знімайте відео та діліться своїми файлами. Це швидко, легко і безкоштовно. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/monosnap/id540348655)
 * [OBS Studio](https://github.com/obsproject/obs-studio) - Безкоштовне програмне забезпечення з відкритим кодом для прямих трансляцій та запису екрана. [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio)
-* [Shottr](https://shottr.cc/) - Додаток для захоплення екрана з такими функціями, як прокручування (scrolling capture), OCR та розмітка.
-* [Skitch](https://evernote.com/skitch/) - Додаток для захоплення екрана з потужними можливостями анотування. ![Freeware][Freeware Icon]
-* [Snip](http://snip.qq.com/) - Додаток для обміну захопленими зображеннями в QQ Mail. ![Freeware][Freeware Icon]
+* [Shottr](https://shottr.cc/) - Застосунок для захоплення екрана з такими функціями, як прокручування (scrolling capture), OCR та розмітка.
+* [Skitch](https://evernote.com/skitch/) - Застосунок для захоплення екрана з потужними можливостями анотування. ![Freeware][Freeware Icon]
+* [Snip](http://snip.qq.com/) - Застосунок для обміну захопленими зображеннями в QQ Mail. ![Freeware][Freeware Icon]
 * [Snipaste](https://www.snipaste.com) - Простий, але потужний інструмент для вирізання (snipping tool). ![Freeware][Freeware Icon]
 * [Teampaper Snap](http://teampaper.me/snap/) - Нехай ваші скріншоти говорять. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/monosnap/id1199502670)
 * [Tight Studio](https://tight.studio/) - Записуйте вражаючі екрани за лічені хвилини, з розумним зумом, озвученням ШІ, легкими титрами, накладанням тексту та багатьом іншим, все це простими кліками.
 * [Tuji](https://tuji.app/) - Зробіть скріншот, анотуйте його та прикрасьте. [![App Store][app-store Icon]](https://apps.apple.com/us/app/tuji/id6479216439) ![Freeware][Freeware Icon]
-* [Xnip](http://xnipapp.com/) - Зручний додаток для скріншотів. [![App Store][app-store Icon]](https://itunes.apple.com/app/xnip-handy-screenshot-app/id1221250572) ![Freeware][Freeware Icon]
-* [Dropbox](https://www.dropbox.com/) - Додаток Dropbox пропонує легке захоплення скріншотів та обмін ними ![Freeware][Freeware Icon]
+* [Xnip](http://xnipapp.com/) - Зручний застосунок для скріншотів. [![App Store][app-store Icon]](https://itunes.apple.com/app/xnip-handy-screenshot-app/id1221250572) ![Freeware][Freeware Icon]
+* [Dropbox](https://www.dropbox.com/) - Застосунок Dropbox пропонує легке захоплення скріншотів та обмін ними ![Freeware][Freeware Icon]
 * [Snagit](https://www.techsmith.com/screen-capture.html) - Програмне забезпечення для захоплення та запису екрана. Просте і потужне.
 * [Screen Studio](https://www.screen.studio/) - Записуйте красиві екрани за лічені хвилини з вбудованими вишуканими анімаціями кадрів, без необхідності редагування.
-* [Zappy](https://zapier.com/zappy) - Zappy — це додаток для скріншотів та запису екрана в одному. Має вбудовані прості інструменти редагування.
+* [Zappy](https://zapier.com/zappy) - Zappy — це застосунок для скріншотів та запису екрана в одному. Має вбудовані прості інструменти редагування.
 
 ### Інші інструменти
 
 * [Amazing AI](https://sindresorhus.com/amazing-ai) - Генеруйте зображення з тексту за допомогою Stable Diffusion. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1660147028)
-* [APNGb](https://github.com/mancunianetz/APNGb) - Додаток для збирання/розбирання PNG зображень. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
-* [Aspect](https://aspect.bildhuus.com) - Додаток для організації фотографій з одноранговою (peer-to-peer) синхронізацією. ![Freeware][Freeware Icon]
-* [Assetizr](https://assetizr.com) - Зміна розміру зображень та їх оптимізація для веб та мобільних додатків. ![Freeware][Freeware Icon]
-* [Couleurs](http://couleursapp.com) - Простий додаток для захоплення та налаштування кольорів, які ви бачите на екрані. ![Freeware][Freeware Icon]
+* [APNGb](https://github.com/mancunianetz/APNGb) - Застосунок для збирання/розбирання PNG зображень. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
+* [Aspect](https://aspect.bildhuus.com) - Застосунок для організації фотографій з одноранговою (peer-to-peer) синхронізацією. ![Freeware][Freeware Icon]
+* [Assetizr](https://assetizr.com) - Зміна розміру зображень та їх оптимізація для веб та мобільних застосунків. ![Freeware][Freeware Icon]
+* [Couleurs](http://couleursapp.com) - Простий застосунок для захоплення та налаштування кольорів, які ви бачите на екрані. ![Freeware][Freeware Icon]
 * [Diffusion Bee](https://diffusionbee.com/) - Найпростіший спосіб генерувати мистецтво ШІ на вашому комп'ютері за допомогою Stable Diffusion. [![Open-Source Software][OSS Icon]](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/) ![Freeware][Freeware Icon]
 * [Eagle App](https://en.eagle.cool/) - Простий та інтуїтивно зрозумілий файловий менеджер з тегами та анотаціями для всіх ваших файлів дизайну. Підтримує всі основні файли джерел, зображень, RAW, відео, 3D, аудіо, шрифтів та офісні файли.
 * [ExifCleaner](https://exifcleaner.com) - Видаляйте метадані exif із зображень та відео перетягуванням. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/szTheory/exifcleaner)
 * [HEIC Converter](https://sindresorhus.com/heic-converter) - Конвертуйте зображення HEIC у JPEG або PNG. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/heic-converter-to-jpeg-or-png/id1294126402)
 * [Iconset](https://iconset.io) - Безкоштовний, кросплатформний та швидкий органайзер і менеджер іконок SVG для Mac та Windows.
 * [Iconjar](http://geticonjar.com/) - Інструмент керування іконками для організації або пошуку ваших іконок.
-* [IconKit](http://appersian.net/) - Генератор іконок для додатків. [![App Store][app-store Icon]](https://itunes.apple.com/app/iconkit-icon-resizer-for-app/id507135296)
+* [IconKit](http://appersian.net/) - Генератор іконок для застосунків. [![App Store][app-store Icon]](https://itunes.apple.com/app/iconkit-icon-resizer-for-app/id507135296)
 * [Image2icon](http://www.img2icnsapp.com) - Створюйте та персоналізуйте іконки з ваших зображень. ![Freeware][Freeware Icon]
 * [ImageAlpha](https://pngmini.com/) - Стискайте зображення у форматі PNG та видаляйте прозорість. [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
 * [ImageOptim](https://imageoptim.com/mac) - Стискайте зображення та видаляйте інформацію EXIF. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ImageOptim/ImageOptim)
@@ -651,18 +651,18 @@
 * [Tropy](https://tropy.org/) - Керування фотографіями досліджень. [![Open-Source Software][OSS Icon]](https://github.com/tropy/tropy) ![Freeware][Freeware Icon]
 * [PicGo](https://github.com/Molunerfinn/PicGo) - Підтримка інструменту хостингу зображень загальних CDN. [![Open-Source Software][OSS Icon]](https://github.com/Molunerfinn/PicGo)
 * [AppIconBuilder](https://itunes.apple.com/app/shotbuilder/id1294179975?mt=12) - Експорт іконок для багатьох платформ. [![App Store][app-store Icon]](https://itunes.apple.com/app/shotbuilder/id1294179975?mt=12)
-* [uPic](https://github.com/gee1k/uPic) - Нативний додаток macOS, потужний і лаконічний клієнт хостингу зображень. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gee1k/uPic)
+* [uPic](https://github.com/gee1k/uPic) - Нативний застосунок macOS, потужний і лаконічний клієнт хостингу зображень. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gee1k/uPic)
 
 ## AI клієнти
 
 * [AppleAi](https://www.theappleai.tech/) - Отримуйте доступ до кількох ШІ-асистентів з рядка меню за допомогою одного ярлика. [![Open-Source Software][OSS Icon]](https://github.com/bunnysayzz/AppleAI)
-* [BoltAI](https://boltai.com) - Красивий та потужний додаток ChatGPT для Mac. Будьте попереду, інтегруючи ШІ у свій робочий процес вже сьогодні.
+* [BoltAI](https://boltai.com) - Красивий та потужний застосунок ChatGPT для Mac. Будьте попереду, інтегруючи ШІ у свій робочий процес вже сьогодні.
 * [ChatGPT](https://openai.com/chatgpt/mac/) - Розмовна система ШІ, яка слухає, навчається та кидає виклик.
 * [Claude](https://claude.ai/download) - Ваш ШІ-партнер на робочому столі. Швидкий, цілеспрямований та розроблений для глибокої роботи.
 * [Cherry Studio](https://www.cherry-ai.com/) - Десктопний клієнт, що підтримує кількох провайдерів великих мовних моделей (LLM). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/CherryHQ/cherry-studio)
-* [Chatbox](https://chatboxai.app) - Зручний десктопний клієнтський додаток для моделей ШІ/LLM (GPT, Claude, Gemini, Ollama...). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chatboxai/chatbox)
-* [Fluent](https://fluentmac.app) - Нативний ШІ-асистент, що приносить 450+ моделей (BYOK - зі своїм ключем) у будь-який додаток macOS з миттєвим контекстом додатку та браузера, діями, що налаштовуються, ярликами та підтримкою локальних моделей.
-* [RecurseChat](https://recurse.chat) - RecurseChat — це персональний, локальний та конфіденційний додаток для чату з ШІ. Має простий інтерфейс, потужні налаштування та блискавичну швидкість.
+* [Chatbox](https://chatboxai.app) - Зручний десктопний клієнтський застосунок для моделей ШІ/LLM (GPT, Claude, Gemini, Ollama...). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chatboxai/chatbox)
+* [Fluent](https://fluentmac.app) - Нативний ШІ-асистент, що приносить 450+ моделей (BYOK - зі своїм ключем) у будь-який застосунок macOS з миттєвим контекстом застосунку та браузера, діями, що налаштовуються, ярликами та підтримкою локальних моделей.
+* [RecurseChat](https://recurse.chat) - RecurseChat — це персональний, локальний та конфіденційний застосунок для чату з ШІ. Має простий інтерфейс, потужні налаштування та блискавичну швидкість.
 * [Runtime](https://github.com/runtime-org/runtime) - ШІ-помічник для завдань та контролю над вебом та вашими офісними інструментами.
 * [Jan](https://jan.ai/) - Альтернатива ChatGPT з відкритим кодом, що працює повністю офлайн на вашому комп'ютері. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
 * [Witsy](https://github.com/nbonamy/witsy) - Десктопний ШІ-асистент / універсальний клієнт MCP. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/witsy)
@@ -675,34 +675,34 @@
 
 * [Adium](https://adium.im/) - Безкоштовна програма миттєвого обміну повідомленнями для Mac OS X. Підключення до AIM, MSN, SMPP, Yahoo тощо. ![Freeware][Freeware Icon]
 * [BlurScreen App](https://www.blurscreen.app) - Миттєво розмивайте конфіденційні дані в будь-якому місці екрана під час запису або демонстрації екрана. Пост-редагування не потрібне.
-* [Caprine](https://github.com/sindresorhus/caprine) - Сторонній додаток Facebook Messenger, орієнтований на конфіденційність. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+* [Caprine](https://github.com/sindresorhus/caprine) - Сторонній застосунок Facebook Messenger, орієнтований на конфіденційність. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [DingTalk](https://www.dingtalk.com/en) - Безкоштовний, потужний та професійний офісний інструмент, який використовують понад 5 мільйонів підприємств та організацій у всьому світі. ![Freeware][Freeware Icon]
 * [Discord](https://discordapp.com/) - Голосовий та текстовий чат "все-в-одному" для геймерів, який є безкоштовним, безпечним і працює як на комп'ютері, так і на телефоні.
 * [Element](https://element.io/) - Створюйте, діліться, спілкуйтеся. Чатьтеся та телефонуйте безпечно. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/vector-im)
-* [Ferdium](https://ferdium.org/) - Десктопний додаток, який допомагає організувати використання ваших улюблених додатків, об'єднуючи їх в одну програму. Він заснований на Franz з тією різницею, що Ferdium надає багато додаткових функцій і не обмежує його використання. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ferdium/ferdium-app)
+* [Ferdium](https://ferdium.org/) - Десктопний застосунок, який допомагає організувати використання ваших улюблених застосунків, об'єднуючи їх в одну програму. Він заснований на Franz з тією різницею, що Ferdium надає багато додаткових функцій і не обмежує його використання. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ferdium/ferdium-app)
 * [Franz](http://meetfranz.com/) - Обгортка для веб-чатів на базі [Electron](http://electron.atom.io/), що підтримує багато протоколів. Одна програма, 23 месенджери. ![Freeware][Freeware Icon]
 * [Gitter](https://gitter.im) - Система миттєвого обміну повідомленнями та чат-кімнат для розробників, а також користувачів GitHub. Дружня до розробників з підтримкою синтаксису Markdown.
 * [Keybase](https://keybase.io/) - Безпечні групи, файли та чат для всіх! [![Open-Source Software][OSS Icon]](https://github.com/keybase) ![Freeware][Freeware Icon]
-* [Krisp](https://krisp.ai/) - Додаток на базі ШІ для шумозаглушення, який приглушує фоновий шум під час дзвінків.
+* [Krisp](https://krisp.ai/) - Застосунок на базі ШІ для шумозаглушення, який приглушує фоновий шум під час дзвінків.
 * [Lark](https://www.larksuite.com/en_us/) - Пакет для спільної роботи наступного покоління. Всі ваші чати, зустрічі, календарі, документи та електронні листи в одному місці. ![Freeware][Freeware Icon]
 * [LimeChat](http://limechat.net/mac/) - IRC клієнт з відкритим кодом для Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/psychs/limechat)
 * [Mastodon](https://mastodon.social/) - Ваша власна, глобально взаємопов'язана спільнота мікроблогінгу. [![Freeware][Freeware Icon]](https://joinmastodon.org/apps) [![Open-Source Software][OSS Icon]](https://github.com/mastodon/mastodon)
 * [Matrix](https://matrix.org/) - Відкрита мережа для безпечного, децентралізованого спілкування! ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
 * [Mattermost](https://mattermost.com/download/) - Mattermost — це платформа з відкритим кодом для безпечної співпраці протягом усього життєвого циклу розробки програмного забезпечення. [![Open-Source Software][OSS Icon]](https://github.com/mattermost/mattermost) ![Freeware][Freeware Icon]
 * [Misskey](https://misskey-hub.net/) - 🌎 Повністю безкоштовна та відкрита міжпланетна платформа мікроблогінгу 🚀 [![Open-Source Software][OSS Icon]](https://github.com/misskey-dev/misskey)
-* [Muzzle](https://muzzleapp.com/) - Простий додаток для Mac, щоб заглушити незручні сповіщення під час демонстрації екрана.
-* [Presentify](https://presentify.compzets.com/) - Додаток для Mac, щоб малювати на екрані під час дзвінків, підсвічувати курсор тощо. ![App Store][app-store Icon]
-* [Rambox](http://rambox.pro/) - Додаток для обміну повідомленнями та електронної пошти, що об'єднує поширені веб-додатки в одному місці. [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
+* [Muzzle](https://muzzleapp.com/) - Простий застосунок для Mac, щоб заглушити незручні сповіщення під час демонстрації екрана.
+* [Presentify](https://presentify.compzets.com/) - Застосунок для Mac, щоб малювати на екрані під час дзвінків, підсвічувати курсор тощо. ![App Store][app-store Icon]
+* [Rambox](http://rambox.pro/) - Застосунок для обміну повідомленнями та електронної пошти, що об'єднує поширені веб-застосунки в одному місці. [![Open-Source Software][OSS Icon]](https://github.com/saenzramiro/rambox) ![Freeware][Freeware Icon]
 * [Signal Desktop](https://signal.org/download/) - Швидкий, простий, безпечний. Конфіденційність, що поміщається у вашій кишені. [![Open-Source Software][OSS Icon]](https://github.com/signalapp/Signal-Desktop)
 * [Slack](https://slack.com/downloads/mac) - Чудовий інструмент для спільної роботи та спілкування в команді. ![Freeware][Freeware Icon]
-* [Stack](https://getstack.app/) - Відкривайте, організовуйте та використовуйте кілька веб-додатків на одному екрані. Складайте додатки за категоріями або проєктами.
+* [Stack](https://getstack.app/) - Відкривайте, організовуйте та використовуйте кілька веб-застосунків на одному екрані. Складайте застосунки за категоріями або проєктами.
 * [Teams](https://teams.live.com/) - Безкоштовні онлайн-зустрічі та відеодзвінки.
 * [Teambition](https://www.teambition.com) - Інструмент для співпраці команди, що включає багато функцій, таких як планування завдань, розклад, обмін файлами, миттєві обговорення та все необхідне для співпраці з іншими членами команди. ![Freeware][Freeware Icon]
-* [Telegram](https://desktop.telegram.org) - Додаток для обміну повідомленнями з акцентом на швидкість та безпеку. [![Open-Source Software][OSS Icon]](https://github.com/overtake/TelegramSwift) [![App Store][app-store Icon]](https://itunes.apple.com/us/app/telegram/id747648890?mt=12)
+* [Telegram](https://desktop.telegram.org) - Застосунок для обміну повідомленнями з акцентом на швидкість та безпеку. [![Open-Source Software][OSS Icon]](https://github.com/overtake/TelegramSwift) [![App Store][app-store Icon]](https://itunes.apple.com/us/app/telegram/id747648890?mt=12)
 * [Textual](https://apps.apple.com/us/app/textual-7/id1262957439) - Клієнт Internet Relay Chat (IRC). [![Open-Source Software][OSS Icon]](https://github.com/Codeux-Software/Textual) [![App Store][app-store Icon]](https://itunes.apple.com/us/app/telegram/id747648890)
-* [Unite](https://furnacecreek.org/unite/) - Єдиний нативний додаток GroupMe для Mac.
-* [Wavebox](https://wavebox.io) - Революційний та багатофункціональний браузер Chromium, створений для продуктивної роботи в Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack та будь-якому іншому веб-додатку, який ви використовуєте для роботи.
-* [WeChat](https://itunes.apple.com/app/wechat/id836500024?mt=12) - Офіційний додаток WeChat для Mac. ![Freeware][Freeware Icon] ![App Store][app-store Icon]
+* [Unite](https://furnacecreek.org/unite/) - Єдиний нативний застосунок GroupMe для Mac.
+* [Wavebox](https://wavebox.io) - Революційний та багатофункціональний браузер Chromium, створений для продуктивної роботи в Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack та будь-якому іншому веб-застосунку, який ви використовуєте для роботи.
+* [WeChat](https://itunes.apple.com/app/wechat/id836500024?mt=12) - Офіційний застосунок WeChat для Mac. ![Freeware][Freeware Icon] ![App Store][app-store Icon]
 * [WeeChat](https://weechat.org/) - Розширюваний клієнт чату для командного рядка. ![Freeware][Freeware Icon]
 * [WhatsApp Desktop](https://itunes.apple.com/us/app/whatsapp-desktop/id1147396723?mt=12) - Доступний у Mac App Store, Whatsapp для робочого столу. ![App Store][app-store Icon]
 * [Mezon](https://mezon.ai/) - Новий спосіб спілкування з вашою командою. Це безкоштовно, швидше, краще організовано, краще для роботи з дому. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/mezonai/mezon)
@@ -710,13 +710,13 @@
 ### Поштові клієнти
 
 * [Airmail](http://airmailapp.com) - Швидкий поштовий клієнт. Як для Mac OS, так і для iOS.
-* [CanaryMail](https://canarymail.io/) - Безпечний поштовий додаток для Mac та iPhone з вбудованою підтримкою PGP та допомогою ШІ. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/canary-mail-email-meet-ai/id1236045954?mt=12)
+* [CanaryMail](https://canarymail.io/) - Безпечний поштовий застосунок для Mac та iPhone з вбудованою підтримкою PGP та допомогою ШІ. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/canary-mail-email-meet-ai/id1236045954?mt=12)
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) - Неофіційний десктопний клієнт для ProtonMail на базі Electron. [![Open-Source Software][OSS Icon]](https://github.com/vladimiry/ElectronMail) ![Freeware][Freeware Icon]
 * [Foxmail](http://www.foxmail.com/mac/en) - Швидкий поштовий клієнт. ![Freeware][Freeware Icon]
 * [MailTags](https://smallcubed.com/) - Використовуйте теги для організації електронної пошти та розкладу.
 * [Mailspring](https://getmailspring.com/) - Красивий, швидкий та повністю відкритий поштовий клієнт. [![Open-Source Software][OSS Icon]](https://github.com/Foundry376/Mailspring) ![Freeware][Freeware Icon]
-* [N1](https://www.nylas.com/) - Розширюваний поштовий додаток з відкритим кодом, безкоштовний для розробників та $7/місяць для Pro. ![Open-Source Software][OSS Icon]
-* [Nylas Mail](https://nylas.com/nylas-mail/) - Розширюваний настільний поштовий додаток, побудований на сучасному вебі. [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) ![Freeware][Freeware Icon]
+* [N1](https://www.nylas.com/) - Розширюваний поштовий застосунок з відкритим кодом, безкоштовний для розробників та $7/місяць для Pro. ![Open-Source Software][OSS Icon]
+* [Nylas Mail](https://nylas.com/nylas-mail/) - Розширюваний настільний поштовий застосунок, побудований на сучасному вебі. [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) ![Freeware][Freeware Icon]
 * [Polymail](https://polymail.io/) - Простий, красивий і потужний поштовий клієнт. ![Freeware][Freeware Icon]
 * [Postbox](https://www.postbox-inc.com) - Потужний, простий і красивий поштовий клієнт, потрібно придбати ліцензію.
 * [Spark](https://sparkmailapp.com/) - Швидкий поштовий клієнт. Як для Mac OS, так і для iOS.![Freeware][Freeware Icon]
@@ -728,10 +728,10 @@
 ### Обмін файлами
 
 * [Cyberduck](https://cyberduck.io) - Безкоштовний браузер FTP, SFTP, WebDAV, S3, Backblaze B2, Azure та OpenStack Swift. ![Freeware][Freeware Icon]
-* [Dropshare](https://dropshare.app) - Потужний додаток для рядка меню для обміну скріншотами, записами екрана та іншими файлами з понад 27 провайдерами сховищ.
+* [Dropshare](https://dropshare.app) - Потужний застосунок для рядка меню для обміну скріншотами, записами екрана та іншими файлами з понад 27 провайдерами сховищ.
 * [Flow](http://fivedetails.com/flow/) - Відзначений нагородами, красивий, швидкий і надійний клієнт FTP + SFTP.
 * [LocalSend](https://localsend.org/) - Кросплатформна альтернатива AirDrop з відкритим кодом. [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
-* [NearDrop](https://github.com/grishka/NearDrop) - Неофіційний додаток Google Nearby Share/Quick Share для macOS. [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
+* [NearDrop](https://github.com/grishka/NearDrop) - Неофіційний застосунок Google Nearby Share/Quick Share для macOS. [![Open-Source Software][OSS Icon]](https://github.com/localsend/localsend) ![Freeware][Freeware Icon]
 * [Transmit](https://panic.com/transmit/) - Дуже гнучкий та інтуїтивно зрозумілий FTP клієнт, підтримує SFTP, S3 та iDisk/WebDAV.
 
 ## Інструменти для відновлення даних
@@ -746,7 +746,7 @@
 
 * [Adapter](https://macroplant.com/adapter) - Безкоштовне програмне забезпечення для конвертації аудіо, відео та зображень. ![Freeware][Freeware Icon]
 * [Aegisub](https://github.com/Aegisub/Aegisub) - Безкоштовний кросплатформний інструмент з відкритим кодом для створення та редагування субтитрів. Aegisub дозволяє швидко та легко синхронізувати субтитри з аудіо та має багато потужних інструментів для їх стилізації, включаючи вбудований попередній перегляд відео в реальному часі. [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon]
-* [VoiceInk](https://tryvoiceink.com/) - Додаток для перетворення мови в текст у реальному часі. [![Open-Source Software][OSS Icon]](https://github.com/Beingpax/VoiceInk) ![Freeware][Freeware Icon]
+* [VoiceInk](https://tryvoiceink.com/) - Застосунок для перетворення мови в текст у реальному часі. [![Open-Source Software][OSS Icon]](https://github.com/Beingpax/VoiceInk) ![Freeware][Freeware Icon]
 * [Audio Profile Manager](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12) - Дозволяє закріплювати пристрої введення/виведення для кожної конкретної комбінації підключених пристроїв. Може запобігати вибору дисплеїв HDMI. [![App Store][app-store Icon]](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12)
 * [Aiko](https://sindresorhus.com/aiko) - Високоякісне розпізнавання мови на пристрої. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168)
 * [Ardour](https://ardour.org/) - Кросплатформне аудіо програмне забезпечення для багатоканального запису та редагування. [![Open-Source Software][OSS Icon]](https://github.com/Ardour/ardour)
@@ -756,10 +756,10 @@
 * [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Freemium драйвер віртуального аудіо введення/виведення з відкритим кодом для запису/маршрутизації внутрішнього аудіо. [![Open-Source Software][OSS Icon]](https://github.com/ExistentialAudio/BlackHole) [![Freeware][Freeware Icon]](https://github.com/ExistentialAudio/BlackHole)
 * [buzz](https://github.com/chidiwilliams/buzz) - Транскрибує та перекладає аудіо офлайн на вашому персональному комп'ютері. Працює на базі OpenAI Whisper. [![Open-Source Software][OSS Icon]](https://github.com/chidiwilliams/buzz)
 * [Camera Preview](https://sindresorhus.com/camera-preview) - Переглядайте свою веб-камеру, робіть фотографії та використовуйте її як дзеркало. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1632827132)
-* [Carol](https://github.com/AnaghSharma/Carol) - Мінімалістичний і красивий додаток з текстами пісень для macOS. [![Open-Source Software][OSS Icon]](https://github.com/AnaghSharma/Carol) ![Freeware][Freeware Icon]
+* [Carol](https://github.com/AnaghSharma/Carol) - Мінімалістичний і красивий застосунок з текстами пісень для macOS. [![Open-Source Software][OSS Icon]](https://github.com/AnaghSharma/Carol) ![Freeware][Freeware Icon]
 * [Cog](http://cogx.org/) - Безкоштовний аудіоплеєр з відкритим кодом. [![Open-Source Software][OSS Icon]](https://github.com/losnoco/cog) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cog-kode54/id1630499622)
 * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Безкоштовне кросплатформне програмне забезпечення для редагування відео, корекції кольору, відеоефектів та редагування аудіо.
-* [Elmedia Player](https://mac.eltima.com/media-player.html) - Цей медіаплеєр є суперуніверсальним додатком для будь-якого формату файлів, про який ви можете подумати: FLV, MP4, AVI, MOV, DAT, MKV, MP3, FLAC, M4V підтримуються, як і багато інших.
+* [Elmedia Player](https://mac.eltima.com/media-player.html) - Цей медіаплеєр є суперуніверсальним застосунком для будь-якого формату файлів, про який ви можете подумати: FLV, MP4, AVI, MOV, DAT, MKV, MP3, FLAC, M4V підтримуються, як і багато інших.
 * [FreeTube](https://freetubeapp.io/) - Десктопний клієнт YouTube з відкритим кодом, створений з урахуванням конфіденційності. [![Open-Source Software][OSS Icon]](https://github.com/FreeTubeApp/FreeTube) ![Freeware][Freeware Icon]
 * [Gifski](https://github.com/sindresorhus/gifski-app) - Конвертуйте відео у високоякісні GIF. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/no/app/gifski/id1351639930?mt=12)
 * [HandBrake](https://handbrake.fr/) - Інструмент для конвертації відео з майже будь-якого формату в набір сучасних, широко підтримуваних кодеків. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
@@ -774,7 +774,7 @@
 * [LyricsX](https://github.com/ddddxxx/LyricsX) - Тексти пісень для iTunes, Spotify та Vox. [![Open-Source Software][OSS Icon]](https://github.com/ddddxxx/LyricsX) ![Freeware][Freeware Icon]
 * [MacMusicPlayer](https://github.com/samzong/macmusicplayer) - Чистий, легкий музичний плеєр для користувачів macOS. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [MacYTDL](https://github.com/section83/MacYTDL) - Графічний інтерфейс macOS для завантажувача відео youtube-dl. [![Open-Source Software][OSS Icon]](https://github.com/section83/MacYTDL) ![Freeware][Freeware Icon]
-* [Marker Data](https://github.com/TheAcharya/MarkerData) - Авангардний додаток для вилучення маркерів, створений для Final Cut Pro. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/TheAcharya/MarkerData)
+* [Marker Data](https://github.com/TheAcharya/MarkerData) - Авангардний застосунок для вилучення маркерів, створений для Final Cut Pro. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/TheAcharya/MarkerData)
 * [Metadatics](http://markvapps.com/metadatics) - Просунутий редактор метаданих аудіо. [![App Store][app-store Icon]](https://apps.apple.com/us/app/metadatics/id554883654?mt=12)
 * [Mp3tag](https://mp3tag.app/) - Потужний і простий у використанні інструмент для редагування метаданих аудіофайлів. [![App Store][app-store Icon]](https://apps.apple.com/app/id1532597159/)
 * [Mixxx](http://mixxx.org/) - Найдосконаліше безкоштовне програмне забезпечення для діджеїв. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mixxxdj/mixxx)
@@ -808,9 +808,9 @@
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - Інструмент для декодування, конвертації та відтворення різних "lossless" аудіофайлів. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://code.google.com/archive/p/xld/source)
 * [Recordia](https://sindresorhus.com/recordia) - Записуйте аудіо безпосередньо з рядка меню або за допомогою глобального ярлика клавіатури. [![App Store][app-store Icon]](https://apps.apple.com/app/id1529006487)
 * [Omniplayer](https://okaapps.com/product/1470926410#) - Найкращий медіаплеєр на Mac, підтримує майже всі формати. [![App Store][app-store Icon]](macappstore://itunes.apple.com/app/id1470926410?pt=119209922&l=en&mt=12&ct=newhomepage)
-* [YouTube Music](https://th-ch.github.io/youtube-music/) - Десктопний додаток YouTube Music з кастомними плагінами (та вбудованим блокувальником реклами / завантажувачем). [![Open-Source Software][OSS Icon]](https://github.com/th-ch/youtube-music/) ![Freeware][Freeware Icon]
+* [YouTube Music](https://th-ch.github.io/youtube-music/) - Десктопний застосунок YouTube Music з кастомними плагінами (та вбудованим блокувальником реклами / завантажувачем). [![Open-Source Software][OSS Icon]](https://github.com/th-ch/youtube-music/) ![Freeware][Freeware Icon]
 * [YouTube Music Desktop](https://ytmdesktop.app/) - Безкоштовний кросплатформний десктопний плеєр для YouTube Music. [![Open-Source Software][OSS Icon]](https://github.com/ytmdesktop/ytmdesktop) ![Freeware][Freeware Icon]
-* [YPlayer](https://www.engineerdraft.com/en/yplayer/) - Багатофункціональний додаток для живих субтитрів, транскрибування аудіо/відео та перекладу субтитрів.
+* [YPlayer](https://www.engineerdraft.com/en/yplayer/) - Багатофункціональний застосунок для живих субтитрів, транскрибування аудіо/відео та перекладу субтитрів.
 * [Musicer](https://apps.apple.com/app/musicer/6745227444) - Легкий локальний музичний плеєр, який підтримує кілька форматів для насолоди музикою в будь-який час.
 * [Fmusic](https://github.com/wandercn/fmusic) - Fmusic — це музичний плеєр з відкритим кодом на SwiftUI.[![Open-Source Software][OSS Icon]](https://github.com/wandercn/fmusic)
 
@@ -877,7 +877,7 @@
 * [Orion](https://browser.kagi.com/) - Легкий браузер на базі WebKit з підтримкою розширень Chrome та Firefox. ![Freeware][Freeware Icon]
 * [qutebrowser](https://www.qutebrowser.org/) - Браузер, керований клавіатурою, схожий на vim, заснований на Python і Qt. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qutebrowser/qutebrowser)
 * [Safari](https://www.apple.com/safari/) - Нативний браузер для Mac. ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/safari-extensions#readme)
-* [Station](https://getstation.com/) - Браузер з відкритим кодом, що надає єдине місце для всіх ваших веб-додатків. [![Open-Source Software][OSS Icon]](https://github.com/getstation/desktop-app/) ![Freeware][Freeware Icon]
+* [Station](https://getstation.com/) - Браузер з відкритим кодом, що надає єдине місце для всіх ваших веб-застосунків. [![Open-Source Software][OSS Icon]](https://github.com/getstation/desktop-app/) ![Freeware][Freeware Icon]
 * [Tor Browser](https://www.torproject.org/projects/torbrowser.html) - Анонімність онлайн. Захистіть свою конфіденційність. Захищайтеся від мережевого стеження та аналізу трафіку. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitlab.torproject.org/tpo/applications/tor-browser/)
   * [Mullvad Browser](https://mullvad.net/en/download/browser/) - Tor Browser без мережевих інтеграцій, спрямований на надання технологій браузера проти зняття відбитків (anti-fingerprinting) користувачам VPN, хоча він не вимагає Mullvad VPN. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitlab.torproject.org/tpo/applications/mullvad-browser/)
 * [Web](https://github.com/nuance-dev/Web) - Мінімалістичний ШІ-браузер для macOS, створений за допомогою SwiftUI. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/nuance-dev/Web)
@@ -895,9 +895,9 @@
 * [iTranslate](http://www.itranslate.com/) - Перекладайте цілі вебсайти миттєво за допомогою вбудованого браузера або за допомогою розширення iTranslate для Safari на понад 40 мов. ![Freeware][Freeware Icon]
 * [Lingvanex](https://lingvanex.com) ![Freeware][Freeware Icon]
 * [Ludwig](https://ludwig.guru) - Лінгвістична пошукова система, яка допомагає вам краще писати англійською.
-* [Mate Translate](https://gikken.co/mate-translate/mac) - Перекладайте в Safari та будь-якому додатку на macOS між 103 мовами.
+* [Mate Translate](https://gikken.co/mate-translate/mac) - Перекладайте в Safari та будь-якому застосунку на macOS між 103 мовами.
 * [Nani](https://nani.now) - Швидкий ШІ-переклад з поясненнями.
-* [OpenAI Translator](https://github.com/yetone/openai-translator) - Розширення для браузера та кросплатформний десктопний додаток для перекладу на основі ChatGPT API.[![Open-Source Software][OSS Icon]](https://github.com/yetone/openai-translator)
+* [OpenAI Translator](https://github.com/yetone/openai-translator) - Розширення для браузера та кросплатформний десктопний застосунок для перекладу на основі ChatGPT API.[![Open-Source Software][OSS Icon]](https://github.com/yetone/openai-translator)
 * [Translatium](https://translatium.app) - Перекладайте слова, фрази та зображення між понад 100 мовами з підтримкою словника, транслітерації та голосового виводу. [![Open-Source Software][OSS Icon]](https://github.com/webcatalog/translatium-desktop) [![App Store][app-store Icon]](https://itunes.apple.com/us/app/translatium/id1547052291)
 
 ## Освіта
@@ -924,14 +924,14 @@
 * [LockDown](https://objective-see.com/products/lockdown.html) - Інструмент з відкритим кодом для El Capitan, який перевіряє та виправляє налаштування конфігурації безпеки. [![Open-Source Software][OSS Icon]](https://bitbucket.org/objective-see/lockdown) ![Freeware][Freeware Icon]
 * [LuLu](https://objective-see.com/products/lulu.html) - LuLu — це безкоштовний брандмауер macOS, який має на меті блокувати несанкціонований (вихідний) мережевий трафік. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/LuLu) [![Open-Source Software][OSS Icon]](1) ![Freeware][Freeware Icon]
 * [MalwareBytes](https://www.malwarebytes.com/mac-download/) - Malwarebytes знищує зростаючу загрозу шкідливого ПЗ для Mac, тож ви захищені, а ваша машина працює безперебійно. Кібербезпека, достатньо розумна для Mac. ![Freeware][Freeware Icon]
-* [Mana Security](https://www.manasecurity.com/) - додаток керування вразливостями для фізичних осіб. [![Open-Source Software][OSS Icon]](https://github.com/manasecurity/mana-security-app)
+* [Mana Security](https://www.manasecurity.com/) - застосунок керування вразливостями для фізичних осіб. [![Open-Source Software][OSS Icon]](https://github.com/manasecurity/mana-security-app)
 * [Vulert](https://vulert.com) - Vulert захищає програмне забезпечення, виявляючи вразливості у залежностях з відкритим кодом — без доступу до вашого коду. Він підтримує Js, PHP, Java, Python та інші
 * [OverSight](https://objective-see.com/products/oversight.html) - Відстежуйте мікрофон та веб-камеру, попереджаючи вас, коли активується внутрішній мікрофон або коли процес отримує доступ до веб-камери. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/OverSight)
-* [ParetoSecurity](https://paretosecurity.com/) - Додаток MenuBar для автоматичного аудиту вашого Mac на предмет базової гігієни безпеки. [![Open-Source Software][OSS Icon]](https://github.com/ParetoSecurity/pareto-mac)
+* [ParetoSecurity](https://paretosecurity.com/) - Застосунок MenuBar для автоматичного аудиту вашого Mac на предмет базової гігієни безпеки. [![Open-Source Software][OSS Icon]](https://github.com/ParetoSecurity/pareto-mac)
 * [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - Загальне виявлення програм-вимагачів. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/RansomWhere)
 * [stronghold](https://github.com/alichtman/stronghold) - Легко налаштовуйте параметри безпеки MacOS з терміналу. [![Open-Source Software][OSS Icon]](https://github.com/alichtman/stronghold) ![Freeware][Freeware Icon]
-* [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) - Додаток для перевірки пакетів інсталятора macOS. ![Freeware][Freeware Icon]
-* [swiftGuard](https://github.com/Lennolium/swiftGuard) - Легкий додаток, який захищає USB-порти вашої системи від будь-якого несанкціонованого доступу та виконує різні контрзаходи. [![Open-Source Software][OSS Icon]](https://github.com/Lennolium/swiftGuard) ![Freeware][Freeware Icon]
+* [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) - Застосунок для перевірки пакетів інсталятора macOS. ![Freeware][Freeware Icon]
+* [swiftGuard](https://github.com/Lennolium/swiftGuard) - Легкий застосунок, який захищає USB-порти вашої системи від будь-якого несанкціонованого доступу та виконує різні контрзаходи. [![Open-Source Software][OSS Icon]](https://github.com/Lennolium/swiftGuard) ![Freeware][Freeware Icon]
 * [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Досліджуйте всі процеси, що працюють на вашому Mac, за допомогою TaskExplorer. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/TaskExplorer)
 * [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - Додає пункт меню до Finder.app для відображення інформації про криптографічний підпис для будь-якого файлу.[![Open-Source Software][OSS Icon]](https://github.com/objective-see/WhatsYourSign)
 
@@ -941,25 +941,25 @@
 * [ClashX Guide](https://clashx.tech) - Вичерпні посібники, інструменти та інструкції з усунення несправностей для проксі ClashX на macOS. Включає валідатор YAML, генератор правил та поради щодо оптимізації. ![Freeware][Freeware Icon]
 * [Cloudflare WARP](https://1.1.1.1/) - Замінює з'єднання між вашим пристроєм та Інтернетом сучасним, оптимізованим протоколом. ![Freeware][Freeware Icon]
 * [Hiddify](https://github.com/hiddify/hiddify-app) - Багатоплатформний клієнт авто-проксі, що підтримує Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH тощо.[![Open-Source Software][OSS Icon]](https://github.com/hiddify/hiddify-app) ![Freeware][Freeware Icon]
-* [Lantern](https://getlantern.org) - Безкоштовний додаток, який забезпечує швидкий, надійний та безпечний доступ до відкритого Інтернету. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/getlantern/lantern)
+* [Lantern](https://getlantern.org) - Безкоштовний застосунок, який забезпечує швидкий, надійний та безпечний доступ до відкритого Інтернету. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/getlantern/lantern)
 * [Mullvad VPN](https://mullvad.net) - VPN, орієнтований на конфіденційність, який не вимагає особистої інформації для використання, не веде журналів і дозволяє оплату за допомогою Bitcoin Cash, Monero тощо. [![Open-Source Software][OSS Icon]](https://github.com/mullvad/mullvadvpn-app)
 * [Outline](https://getoutline.org/) - Outline дозволяє легко створити сервер VPN, надаючи будь-кому доступ до вільного та відкритого Інтернету. [![Open-Source Software][OSS Icon]](https://github.com/Jigsaw-Code) ![Freeware][Freeware Icon]
-* [RerouteMe](https://nadenco.gumroad.com/l/rerouteme) - Простий додаток для конфігурації проксі macOS в один клік. ![Freeware][Freeware Icon]
+* [RerouteMe](https://nadenco.gumroad.com/l/rerouteme) - Простий застосунок для конфігурації проксі macOS в один клік. ![Freeware][Freeware Icon]
 * [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - Наступне покоління ShadowsocksX. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG)
 * [ShadowsocksX](http://shadowsocks.org/) - Безпечний проксі socks5, розроблений для захисту вашого інтернет-трафіку. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/shadowsocks/shadowsocks)
 * [Shimo](https://www.shimovpn.com/) - VPN клієнт для Mac.
-* [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Проксі-додаток на основі правил для macOS. [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon]
+* [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Проксі-застосунок на основі правил для macOS. [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon]
 * [Surge](https://nssurge.com/) - Інструмент веб-розробника та проксі-утиліта для iOS 9.
 * [tinc](https://www.tinc-vpn.org) - Програмне забезпечення для безпечної mesh VPN. [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
-* [Tunnelbear](https://www.tunnelbear.com) - Дійсно простий VPN для приватного та безпечного перегляду веб-сторінок. Розблокуйте вебсайти по всьому світу за допомогою додатків для Mac, PC, iOS, Android та Chrome.
+* [Tunnelbear](https://www.tunnelbear.com) - Дійсно простий VPN для приватного та безпечного перегляду веб-сторінок. Розблокуйте вебсайти по всьому світу за допомогою застосунків для Mac, PC, iOS, Android та Chrome.
 * [Tunnelblick](https://tunnelblick.net/downloads.html) - Безкоштовний графічний інтерфейс користувача з відкритим кодом для OpenVPN на OS X. ![Freeware][Freeware Icon]
 * [Windscribe](https://windscribe.com) - Надає 10 ГБ безкоштовного трафіку щомісяця миттєво і дає обмежені варіанти розташування серверів (для користувачів безкоштовного плану). Підключення також займає дуже мало часу.
 * [Tailscale](https://tailscale.com/) - Tailscale спрощує створення програмно-визначених мереж: безпечне з'єднання користувачів, сервісів та пристроїв.
 
 ## Утиліти
 
-* [DNS Easy Switcher](https://github.com/glinford/dns-easy-switcher) - Простий додаток для рядка меню macOS, який дозволяє швидко перемикатися між різними провайдерами DNS (або додавати власні). [![Open-Source Software][OSS Icon]](https://github.com/glinford/dns-easy-switcher) ![Freeware][Freeware Icon]
-* [Dropshelf](https://pilotmoon.com/dropshelf/) - Допоміжний додаток для перетягування (drag and drop) для macOS. ![Freeware][Freeware Icon]
+* [DNS Easy Switcher](https://github.com/glinford/dns-easy-switcher) - Простий застосунок для рядка меню macOS, який дозволяє швидко перемикатися між різними провайдерами DNS (або додавати власні). [![Open-Source Software][OSS Icon]](https://github.com/glinford/dns-easy-switcher) ![Freeware][Freeware Icon]
+* [Dropshelf](https://pilotmoon.com/dropshelf/) - Допоміжний застосунок для перетягування (drag and drop) для macOS. ![Freeware][Freeware Icon]
 * [Dropover](https://dropoverapp.com/) - Утиліта macOS, яка полегшує перетягування. Зберігайте, збирайте або переміщуйте вміст без необхідності відкривати вікна поруч. [![App Store][app-store Icon]](https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052)
 
 ### Інструменти буфера обміну
@@ -969,7 +969,7 @@
 * [Clipboard](https://getclipboard.app/) - Простий у використанні термінальний менеджер буфера обміну для всіх платформ. [![Open-Source Software][OSS Icon]](https://github.com/Slackadays/Clipboard) ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - Менеджер буфера обміну для Mac OS X. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
 * [ClipTools](https://macmost.com/cliptools) - ClipTools — це меню статусу, яке надає доступ до різноманітних простих утиліт буфера обміну. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cliptools/id1619348240?mt=12)
-* [Clipy](https://clipy-app.com/) - Clipy — це додаток розширення буфера обміну для macOS. Заснований на ClipMenu. [![Open-Source Software][OSS Icon]](https://github.com/Clipy/Clipy) ![Freeware][Freeware Icon]
+* [Clipy](https://clipy-app.com/) - Clipy — це застосунок розширення буфера обміну для macOS. Заснований на ClipMenu. [![Open-Source Software][OSS Icon]](https://github.com/Clipy/Clipy) ![Freeware][Freeware Icon]
 * [CopyQ](https://hluk.github.io/CopyQ) - Менеджер буфера обміну з розширеними функціями. [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
 * [iCopy](https://apps.apple.com/cn/app/icopy-%E5%89%AA%E5%88%87%E6%9D%BF-%E5%BF%AB%E6%8D%B7%E5%9B%9E%E5%A4%8D%E5%B7%A5%E5%85%B7/id1638023723?mt=12) - Керування буфером обміну, швидка відповідь, інструмент для підвищення ефективності. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/icopy-%E5%89%AA%E5%88%87%E6%9D%BF-%E5%BF%AB%E6%8D%B7%E5%9B%9E%E5%A4%8D%E5%B7%A5%E5%85%B7/id1638023723?mt=12)
 * [iPaste](https://en.toolinbox.net/iPaste) - Легкий та ефективний інструмент буфера обміну. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1056935452?ls=1&mt=12&at=1000lv4R&ct=iPaste_me)
@@ -984,11 +984,11 @@
 
 ### Інструменти рядка меню
 
-* [Anvil](https://anvilformac.com/) - Anvil — це красивий додаток рядка меню для керування локальними вебсайтами. Запускайте статичні сайти та додатки Rack з простими URL-адресами та нульовою конфігурацією. ![Freeware][Freeware Icon]
+* [Anvil](https://anvilformac.com/) - Anvil — це красивий застосунок рядка меню для керування локальними вебсайтами. Запускайте статичні сайти та застосунки Rack з простими URL-адресами та нульовою конфігурацією. ![Freeware][Freeware Icon]
 * [Bartender](https://www.macbartender.com) - Організуйте або приховайте іконки рядка меню на вашому Mac.
-* [BeardedSpice](https://github.com/beardedspice/beardedspice) - Дозволяє керувати веб-медіаплеєрами (SoundCloud, YouTube тощо) та деякими нативними додатками за допомогою медіа-клавіш на клавіатурах Mac. [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
-* [Bye AppQuit](https://github.com/designsbymuzeer/Bye-Mac-App) - Мінімалістичний додаток рядка меню для швидкого перегляду та завершення запущених процесів. [![Open-Source Software][OSS Icon]](https://github.com/designsbymuzeer/Bye-Mac-App) ![Freeware][Freeware Icon]
-* [DayBar](https://wangchujiang.com/daybar/) - Додаток, який може відображати локальну дату та події нагадування в рядку меню. [![App Store][app-store Icon]](https://apps.apple.com/app/daybar/6739052447)
+* [BeardedSpice](https://github.com/beardedspice/beardedspice) - Дозволяє керувати веб-медіаплеєрами (SoundCloud, YouTube тощо) та деякими нативними застосунками за допомогою медіа-клавіш на клавіатурах Mac. [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
+* [Bye AppQuit](https://github.com/designsbymuzeer/Bye-Mac-App) - Мінімалістичний застосунок рядка меню для швидкого перегляду та завершення запущених процесів. [![Open-Source Software][OSS Icon]](https://github.com/designsbymuzeer/Bye-Mac-App) ![Freeware][Freeware Icon]
+* [DayBar](https://wangchujiang.com/daybar/) - Застосунок, який може відображати локальну дату та події нагадування в рядку меню. [![App Store][app-store Icon]](https://apps.apple.com/app/daybar/6739052447)
 * [Dato](https://sindresorhus.com/dato) - Кращий годинник для рядка меню з календарем, подіями та часовими поясами. [![App Store][app-store Icon]](https://apps.apple.com/us/app/dato/id1470584107)
 * [Dozer](https://github.com/Mortennn/Dozer) - Приховати елементи рядка меню MacOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Mortennn/Dozer)
 * [DynamicHorizon](https://dynamichorizon.app) - Покращує виріз (notch) за допомогою безшовних елементів керування медіа, airdrop, сповіщень, системних індикаторів та віджетів екрана блокування.
@@ -1001,35 +1001,35 @@
 * [iGlance](https://github.com/Moneypulation/iGlance) - Системний монітор macOS для рядка стану. [![Open-Source Software][OSS Icon]](https://github.com/Moneypulation/iGlance) [![Freeware][Freeware Icon]](https://github.com/Moneypulation/iGlance)
 * [Itsycal](https://www.mowglii.com/itsycal/) - Крихітний календар для рядка меню вашого Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
 * [Later](https://getlater.app/) - Збережіть усі ваші програми Mac на потім одним кліком. [![Open-Source Software][OSS Icon]](https://github.com/alyssaxuu/later/) ![Freeware][Freeware Icon]
-* [MeetingBar](https://meetingbar.onrender.com) - Додаток рядка меню для зустрічей календаря. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/leits/MeetingBar)
+* [MeetingBar](https://meetingbar.onrender.com) - Застосунок рядка меню для зустрічей календаря. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/leits/MeetingBar)
 * [Menu Bar Calendar](https://sindresorhus.com/menu-bar-calendar) - Місячний календар прямо у вашому рядку меню. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1558360383)
-* [MenubarX](https://menubarx.app/) - Потужний браузер рядка меню Mac, закріплюйте веб-сторінки як додатки. [![App Store][app-store Icon]](https://apps.apple.com/us/app/menubarx/id1575588022) ![Freeware][Freeware Icon]
-* [MenuScores](https://menuscores.vercel.app/) - Додаток рядка меню, який надає спортивні новини та результати в реальному часі. [![Open-Source Software][OSS Icon]](https://github.com/daniyalmaster693/MenuScores) ![Freeware][Freeware Icon]
+* [MenubarX](https://menubarx.app/) - Потужний браузер рядка меню Mac, закріплюйте веб-сторінки як застосунки. [![App Store][app-store Icon]](https://apps.apple.com/us/app/menubarx/id1575588022) ![Freeware][Freeware Icon]
+* [MenuScores](https://menuscores.vercel.app/) - Застосунок рядка меню, який надає спортивні новини та результати в реальному часі. [![Open-Source Software][OSS Icon]](https://github.com/daniyalmaster693/MenuScores) ![Freeware][Freeware Icon]
 * [MonitorControl](https://github.com/MonitorControl/MonitorControl/) - Керуйте яскравістю та гучністю вашого дисплея на Mac так, ніби це рідний дисплей Apple. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/MonitorControl/MonitorControl/)
 * [NotchNook](https://lo.cafe/notchnook) - Налаштовує рядок меню вашого Mac для безшовної інтеграції з дизайном вирізу.
 * [One Thing](https://sindresorhus.com/one-thing) - Розмістіть одне завдання або ціль у своєму рядку меню. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1604176982)
-* [One Switch](https://fireball.studio/oneswitch) - Додаток рядка меню Mac, який додає різні перемикачі до рядка меню Mac.
-* [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ Додаток рядка меню "все-в-одному", приховати виріз 💻MacBook Pro, темний режим, AirPods, швидкі команди [![Open-Source Software][OSS Icon]](https://github.com/jacklandrin/OnlySwitch) ![Freeware][Freeware Icon]
+* [One Switch](https://fireball.studio/oneswitch) - Застосунок рядка меню Mac, який додає різні перемикачі до рядка меню Mac.
+* [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ Застосунок рядка меню "все-в-одному", приховати виріз 💻MacBook Pro, темний режим, AirPods, швидкі команди [![Open-Source Software][OSS Icon]](https://github.com/jacklandrin/OnlySwitch) ![Freeware][Freeware Icon]
 * [Pandan](https://sindresorhus.com/pandan) - Усвідомлення часу у вашому рядку меню. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1569600264)
 * [Peninsula](https://github.com/Celve/Peninsula) - Динамічний острів (Dynamic Peninsula) для macOS, зосереджений на перемиканні вікон, сповіщеннях та зберіганні файлів. [![Open-Source Software][OSS Icon]](https://github.com/Celve/Peninsula) ![Freeware][Freeware Icon]
 * [PowerMeister](https://naden.co) - Зберігайте енергію та покращуйте час роботи батареї на вашому MacBook.
 * [Quickgif](https://quickgif.app/) - Швидко знаходьте та діліться GIF-файлами. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6744745027)
-* [Reminders MenuBar](https://github.com/DamascenoRafael/reminders-menubar/) - Простий додаток рядка меню macOS для перегляду та взаємодії з нагадуваннями. [![Open-Source Software][OSS Icon]](https://github.com/DamascenoRafael/reminders-menubar/) ![Freeware][Freeware Icon]
-* [RewriteBar](https://rewritebar.com/) - Додаток рядка меню macOS, який допомагає писати текст за допомогою ШІ.
+* [Reminders MenuBar](https://github.com/DamascenoRafael/reminders-menubar/) - Простий застосунок рядка меню macOS для перегляду та взаємодії з нагадуваннями. [![Open-Source Software][OSS Icon]](https://github.com/DamascenoRafael/reminders-menubar/) ![Freeware][Freeware Icon]
+* [RewriteBar](https://rewritebar.com/) - Застосунок рядка меню macOS, який допомагає писати текст за допомогою ШІ.
 * [Second Clock](https://sindresorhus.com/second-clock) - Показувати другий годинник для іншого часового поясу в рядку меню. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6450279539)
 * [SketchyBar](https://github.com/FelixKratz/SketchyBar) - Заміна статус-бара macOS, що високо налаштовується. [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/SketchyBar) ![Freeware][Freeware Icon]
 * [Spaced](https://sindresorhus.com/spaced) - Організуйте елементи рядка меню в групи. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168)
-* [Streaker](https://github.com/jamieweavis/streaker) - Додаток рядка меню для відстеження безперервної серії внесків (streak) на GitHub. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jamieweavis/streaker)
+* [Streaker](https://github.com/jamieweavis/streaker) - Застосунок рядка меню для відстеження безперервної серії внесків (streak) на GitHub. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jamieweavis/streaker)
 * [SwiftBar](https://github.com/swiftbar/SwiftBar/) - Потужний інструмент налаштування рядка меню macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/swiftbar/SwiftBar/)
-* [TextSniper](https://textsniper.app/) - Простий, але потужний OCR додаток у вашому рядку меню. Миттєво копіюйте та вставляйте текст звідусіль. [![App Store][app-store Icon]](https://apps.apple.com/app/id1528890965)
-* [Today](https://sindresorhus.com/today) - Переглядайте розклад на сьогодні прямо з рядка меню. Ідеальний компаньйон для вбудованого додатка Календар. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6443714928)
+* [TextSniper](https://textsniper.app/) - Простий, але потужний OCR застосунок у вашому рядку меню. Миттєво копіюйте та вставляйте текст звідусіль. [![App Store][app-store Icon]](https://apps.apple.com/app/id1528890965)
+* [Today](https://sindresorhus.com/today) - Переглядайте розклад на сьогодні прямо з рядка меню. Ідеальний компаньйон для вбудованого застосунку Календар. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6443714928)
 * [TomatoBar](https://github.com/ivoronin/TomatoBar) - Найакуратніший Pomodoro таймер у світі для рядка меню macOS. [![Open-Source Software][OSS Icon]](https://github.com/ivoronin/TomatoBar) ![Freeware][Freeware Icon]
 * [UTC Time](https://sindresorhus.com/utc-time) - Показувати час у UTC в рядку меню або віджеті. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1538245904)
 * [Vanilla](https://matthewpalmer.net/vanilla/) - Приховати іконки рядка меню на вашому Mac. ![Freeware][Freeware Icon]
 * [Week Number](https://sindresorhus.com/week-number) - Номер поточного тижня у вашому рядку меню. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6502579523)
-* [Work Hours](https://github.com/niteoweb/work-hours-mac) - Простий додаток, який відстежує ваші робочі години з рядка меню. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/niteoweb/work-hours-mac)
+* [Work Hours](https://github.com/niteoweb/work-hours-mac) - Простий застосунок, який відстежує ваші робочі години з рядка меню. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/niteoweb/work-hours-mac)
 * [Xbar](https://xbarapp.com/) - Виводьте результат будь-якого скрипту або програми в рядок меню macOS (перезапуск BitBar). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/matryer/xbar)
-* [FunKey－Mechanical Keyboard App](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677) - FunKey — це додаток для Mac, який надає можливість додавати штучні звуки механічної клавіатури до вашого MacBook. [![App Store][app-store Icon]](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677)
+* [FunKey－Mechanical Keyboard App](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677) - FunKey — це застосунок для Mac, який надає можливість додавати штучні звуки механічної клавіатури до вашого MacBook. [![App Store][app-store Icon]](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677)
 
 ### Інструменти організації файлів
 
@@ -1053,24 +1053,24 @@
 * [AirServer](http://www.airserver.com/Download) - Найдосконаліший програмний приймач дзеркалювання екрана для Mac, PC та Xbox One.
 * [CleanMyMac](https://macpaw.com/cleanmymac) - Видаляйте мегатонни сміття, шкідливого ПЗ та зробіть ваш Mac швидшим і організованішим [![App Store][app-store Icon]](https://apps.apple.com/us/app/cleanmymac/id1339170533?mt=12)
 * [DNS Optimizer](https://www.appecosys.com/apps/dns-optimizer/) - Зміна DNS та інструмент тестування продуктивності для пристроїв Apple (macOS та iOS). ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/dns-optimizer/id6741016224?platform=mac)
-* [DevKnife](https://devknife.app) - Нативний додаток Mac для десятків щоденних завдань розробника, від сканування мережі до форматування JSON.
+* [DevKnife](https://devknife.app) - Нативний застосунок Mac для десятків щоденних завдань розробника, від сканування мережі до форматування JSON.
 * [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - Офлайн набір інструментів, що допомагає розробникам у щоденних завданнях. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
-* [DevUtils.app](https://devutils.com/) - Набір інструментів "все-в-одному" для розробників. Форматуйте/перевіряйте JSON, кодуйте/декодуйте Base64, конвертуйте мітки часу, налагоджуйте JWT… лише в один клік! Нативний додаток macOS і працює офлайн. [![Open-Source Software][OSS Icon]](https://github.com/DevUtilsApp/DevUtils-app) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/devutils-app/id1533756032)
+* [DevUtils.app](https://devutils.com/) - Набір інструментів "все-в-одному" для розробників. Форматуйте/перевіряйте JSON, кодуйте/декодуйте Base64, конвертуйте мітки часу, налагоджуйте JWT… лише в один клік! Нативний застосунок macOS і працює офлайн. [![Open-Source Software][OSS Icon]](https://github.com/DevUtilsApp/DevUtils-app) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/devutils-app/id1533756032)
 * [Etcher](https://www.balena.io/etcher/) - Записуйте (флеште) образи ОС на SD-карти та USB-накопичувачі, безпечно та легко. [![Open-Source Software][OSS Icon]](https://github.com/balena-io/etcher) ![Freeware][Freeware Icon]
 * [Equinox](https://github.com/rlxone/Equinox) - Створюйте динамічні шпалери для macOS. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203)
 * [HTTrack](http://www.httrack.com) - Корисний інструмент для завантаження цілого вебсайту та офлайн-перегляду. ![Freeware][Freeware Icon]
-* [Latest](https://github.com/mangerlahn/Latest) - Крихітний додаток, який перевіряє, чи оновлені всі ваші програми з будь-якого джерела. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mangerlahn/Latest)
+* [Latest](https://github.com/mangerlahn/Latest) - Крихітний застосунок, який перевіряє, чи оновлені всі ваші програми з будь-якого джерела. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mangerlahn/Latest)
 * [Lungo](https://sindresorhus.com/lungo) - Запобігайте переходу Mac у режим сну. [![App Store][app-store Icon]](https://apps.apple.com/us/app/lungo/id1263070803)
 * [LaunchNext](https://github.com/RoversX/LaunchNext) - Класичний досвід Launchpad, переживіть стару macOS заново. [![Open-Source Software][OSS Icon]](https://github.com/RoversX/LaunchNext) ![Freeware][Freeware Icon]
 * [lo-rain](https://lo.cafe/lo-rain) - Створіть дощ, що налаштовується, над вашим робочим столом і програмами, з бризками над доком.
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - Очищувач кешу для Mac [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
-* [Memo](http://memo-app.net/) - Простий та елегантний додаток. Розблоковуйте нотатки ще швидше за допомогою Touch ID. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1212409035)
-* [Numi](http://numi.io/) - Красивий додаток калькулятора для Mac. ![Freeware][Freeware Icon]
+* [Memo](http://memo-app.net/) - Простий та елегантний застосунок. Розблоковуйте нотатки ще швидше за допомогою Touch ID. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1212409035)
+* [Numi](http://numi.io/) - Красивий застосунок калькулятора для Mac. ![Freeware][Freeware Icon]
 * [NextDNS](https://nextdns.io/) - Новий брандмауер для сучасного Інтернету. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/nextdns/id1464122853)
 * [Plash](https://sindresorhus.com/plash) - Зробіть будь-який вебсайт шпалерами робочого столу. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Plash) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/plash/id1494023538)
 * [rem](https://github.com/jasonjmcghee/rem) - Підхід з відкритим кодом для локального запису та пошуку всього, що ви переглядаєте на своєму Mac. [![Open-Source Software][OSS Icon]](https://github.com/jasonjmcghee/rem) ![Freeware][Freeware Icon]
 * [Rewind](https://www.rewind.ai/) - Rewind — це програма, розроблена для macOS, яка записує та індексує всі дії користувача на Mac, включаючи вміст екрана та аудіо. Користувачі можуть перемотувати та шукати минулі дії, по суті додаючи "кнопку перемотування" до Mac.
-* [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Додаток OS X, який додає глобальну затримку в 1 секунду до комбінації клавіш Cmd-Q. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/dteoh/SlowQuitApps)
+* [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Застосунок OS X, який додає глобальну затримку в 1 секунду до комбінації клавіш Cmd-Q. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/dteoh/SlowQuitApps)
 * [Speediness](https://sindresorhus.com/speediness) - Перевірте швидкість вашого інтернету. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1596706466)
 * [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) - Менеджер вкладок для Safari з відкритим кодом [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swift-open-source/UltraTabSaver)
 * [Upscayl](https://github.com/upscayl/upscayl) - Безкоштовний інструмент масштабування зображень за допомогою ШІ з відкритим кодом. [![Open-Source Software][OSS Icon]](https://github.com/upscayl/upscayl) ![Freeware][Freeware Icon]
@@ -1079,21 +1079,21 @@
 
 ### Списки справ (To-Do Lists)
 
-* [2Do](http://www.2doapp.com/) - Хороший додаток для списків справ.
+* [2Do](http://www.2doapp.com/) - Хороший застосунок для списків справ.
 * [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - Заміна годинника в рядку меню із вбудованим календарем. ![Freeware][Freeware Icon]
-* [Fantastical](https://flexibits.com/fantastical) - Додаток календаря, без якого ви не зможете жити.
+* [Fantastical](https://flexibits.com/fantastical) - Застосунок календаря, без якого ви не зможете жити.
 * [Focus](https://meaningful-things.com/focus) - Красивий тайм-менеджер на основі Pomodoro. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/focus-productivity-timer/id777233759?mt=12)
 * [Focused Work: Focus Timer](https://focusedwork.app) - Простий, гнучкий таймер фокусування. [![App Store][app-store Icon]](https://apps.apple.com/us/app/focused-work-focus-timer/id1523968394?uo=4)
 * [Lunatask](https://lunatask.app) - Зашифрований список справ "все-в-одному", трекер звичок та настрою, ведення щоденника та нотаток. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/lunatask-a-better-to-do-list/id1583719331?mt=12)
 * [Microsoft To-Do](https://todo.microsoft.com/) - Наступник Wunderlist від Microsoft. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/de/app/microsoft-to-do/id1274495053?mt=12)
-* [Nozbe](https://nozbe.com) - Потужний GTD додаток для окремих осіб та команд, з підтримкою кожного пристрою Apple (Mac, iPhone, iPad, Watch). [![App Store][app-store Icon]](https://itunes.apple.com/pl/app/nozbe-tasks-projects-team/id508957583?mt=12)
-* [OmniFocus](https://www.omnigroup.com/omnifocus/) - Хороший GTD додаток, створений OmniGroups.
+* [Nozbe](https://nozbe.com) - Потужний GTD застосунок для окремих осіб та команд, з підтримкою кожного пристрою Apple (Mac, iPhone, iPad, Watch). [![App Store][app-store Icon]](https://itunes.apple.com/pl/app/nozbe-tasks-projects-team/id508957583?mt=12)
+* [OmniFocus](https://www.omnigroup.com/omnifocus/) - Хороший GTD застосунок, створений OmniGroups.
 * [One Task](https://sindresorhus.com/one-task) - Виконуйте по одному завданню за раз. [![App Store][app-store Icon]](https://apps.apple.com/app/id6465745322)
-* [Super Productivity](https://super-productivity.com) - Кросплатформний додаток для списків справ з інтегрованим таймбоксингом та можливостями відстеження часу. [![Open-Source Software][OSS Icon]](https://github.com/johannesjo/super-productivity) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/super-productivity/id1482572463?mt=12)
+* [Super Productivity](https://super-productivity.com) - Кросплатформний застосунок для списків справ з інтегрованим таймбоксингом та можливостями відстеження часу. [![Open-Source Software][OSS Icon]](https://github.com/johannesjo/super-productivity) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/super-productivity/id1482572463?mt=12)
 * [Taskade](https://www.taskade.com) - Редактор для спільної роботи в реальному часі для команд.
 * [TaskPaper](https://www.taskpaper.com/) - Списки справ у звичайному тексті.
-* [Things](https://culturedcode.com/things/) - Приємний і простий у використанні менеджер завдань. (**Додаток, відзначений нагородами**)
-* [Todoist](https://todoist.com/mac) - Кросплатформний додаток для списків справ. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/todoist-to-do-list-tasks/id585829637?mt=12)
+* [Things](https://culturedcode.com/things/) - Приємний і простий у використанні менеджер завдань. (**Застосунок, відзначений нагородами**)
+* [Todoist](https://todoist.com/mac) - Кросплатформний застосунок для списків справ. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/todoist-to-do-list-tasks/id585829637?mt=12)
 * [Tomato 2](https://tomato2.app) - Красивий і простий таймер Pomodoro. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/tomato-2-pomodoro-timer/id1494210770?mt=12)
 * [TickTick](https://ticktick.com/) - Простий та ефективний список справ та менеджер завдань, який допомагає організувати всі аспекти життя. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id966085870)
 
@@ -1101,11 +1101,11 @@
 
 * [1440 Minutes Left Today](https://1440app.com/) - Відстежуйте, скільки хвилин у вас залишилося до кінця дня, прямо у вашому рядку меню. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/1440/id1483764819)
 * [ActivityWatch](https://activitywatch.net/) - Кросплатформний, розширюваний тайм-трекер, орієнтований на конфіденційність. [![Open-Source Software][OSS Icon]](https://github.com/ActivityWatch/activitywatch) ![Freeware][Freeware Icon]
-* [Alfred](https://www.alfredapp.com/) - Відзначений нагородами додаток, який підвищує ефективність за допомогою гарячих клавіш, ключових слів, розширення тексту та іншого. Шукайте на своєму Mac та в Інтернеті, і будьте більш продуктивними з користувацькими діями для керування вашим Mac. [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
-* [Atomic](https://indiegoodies.com/atomic) - Додаток для відстеження звичок, щоб формувати хороші звички, позбавлятися поганих і бути в курсі своїх щоденних рутин.
+* [Alfred](https://www.alfredapp.com/) - Відзначений нагородами застосунок, який підвищує ефективність за допомогою гарячих клавіш, ключових слів, розширення тексту та іншого. Шукайте на своєму Mac та в Інтернеті, і будьте більш продуктивними з користувацькими діями для керування вашим Mac. [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
+* [Atomic](https://indiegoodies.com/atomic) - Застосунок для відстеження звичок, щоб формувати хороші звички, позбавлятися поганих і бути в курсі своїх щоденних рутин.
 * [Better Launchpad](https://github.com/rewhex/better-launchpad) - Розумніший, безкоштовний лаунчер програм для macOS, що налаштовується, зі швидким пошуком.
 * [BetterMouse](https://better-mouse.com) - Плавне прокручування, заборона прискорення курсора та потужне перепризначення кнопок/жестів в одній утиліті для сторонніх мишей. Має на меті заміну тих громіздких і нав'язливих офіційних драйверів.
-* [BetterTouchTool](https://folivora.ai/) - Чудовий, багатофункціональний додаток, який дозволяє налаштувати багато жестів для вашої Magic Mouse, Macbook Trackpad, Magic Trackpad, а також жести миші для звичайних мишей.
+* [BetterTouchTool](https://folivora.ai/) - Чудовий, багатофункціональний застосунок, який дозволяє налаштувати багато жестів для вашої Magic Mouse, Macbook Trackpad, Magic Trackpad, а також жести миші для звичайних мишей.
 * [Cerebro](https://cerebroapp.com/) - Підсилювач продуктивності з мізками та відкритим кодом. [![Open-Source Software][OSS Icon]](https://github.com/cerebroapp/cerebro) ![Freeware][Freeware Icon]
 * [Choosy](https://www.choosyosx.com) - Інтерфейс користувача, URL API та набір розширень для браузера для керування правилами, де і як відкривати посилання.
 * [CursorSense](https://www.plentycom.jp/en/cursorsense/index.html) - Драйвер миші та трекпада, який дозволяє налаштувати криву прискорення та багато іншого.
@@ -1113,27 +1113,27 @@
 * [Dropzone](https://aptonic.com) - Створює спливаючу сітку дій, що налаштовуються. Можливість скриптування на Ruby та Python.
 * [escrcpy](https://github.com/viarotel-org/escrcpy) -📱 Графічний Scrcpy для відображення та керування пристроями Android на базі Electron.[![Open-Source Software][OSS Icon]](https://github.com/viarotel-org/escrcpy) ![Freeware][Freeware Icon]
 * [Focalboard](https://www.focalboard.com/) - Альтернатива Trello, Notion та Asana з відкритим кодом для самостійного хостингу. [![Open-Source Software][OSS Icon]](https://github.com/mattermost/focalboard) ![Freeware][Freeware Icon]
-* [Focus Firewall](https://focusfirewall.com) - Мінімалістичний додаток для фокусування, щоб блокувати соціальні мережі та інші фактори, що відволікають, під час роботи. [![App Store][app-store Icon]]([https://apps.apple.com/app/apple-store/id6476942786?pt=124015613&ct=awesome-mac&mt=8](https://apps.apple.com/app/apple-store/id6476942786?pt=124015613&ct=awesome-mac&mt=8))
-* [Freeter](https://freeter.io/) - Додаток з відкритим кодом, який дозволяє зібрати все необхідне для роботи в одному місці, організованому за проєктами та робочими процесами, і мати швидкий доступ до них. [![Open-Source Software][OSS Icon]](https://github.com/FreeterApp/Freeter) ![Freeware][Freeware Icon]
+* [Focus Firewall](https://focusfirewall.com) - Мінімалістичний застосунок для фокусування, щоб блокувати соціальні мережі та інші фактори, що відволікають, під час роботи. [![App Store][app-store Icon]]([https://apps.apple.com/app/apple-store/id6476942786?pt=124015613&ct=awesome-mac&mt=8](https://apps.apple.com/app/apple-store/id6476942786?pt=124015613&ct=awesome-mac&mt=8))
+* [Freeter](https://freeter.io/) - Застосунок з відкритим кодом, який дозволяє зібрати все необхідне для роботи в одному місці, організованому за проєктами та робочими процесами, і мати швидкий доступ до них. [![Open-Source Software][OSS Icon]](https://github.com/FreeterApp/Freeter) ![Freeware][Freeware Icon]
 * [Hammerspoon](http://www.hammerspoon.org/) - Інструмент для потужної автоматизації OSX за допомогою скриптового рушія Lua. [![Open-Source Software][OSS Icon]](https://github.com/Hammerspoon/hammerspoon) ![Freeware][Freeware Icon]
 * [HapticKey](https://github.com/niw/HapticKey/releases) - Проста утиліта для MacBook з Touch Bar, яка викликає тактильний відгук при натисканні на Touch Bar. [![Open-Source Software][OSS Icon]](https://github.com/niw/HapticKey) ![Freeware][Freeware Icon]
-* [HazeOver](https://hazeover.com) - Додаток, який затемнює вікна фонових програм, щоб ви могли більше зосередитися на своєму основному завданні! [![App Store][app-store Icon]](https://apps.apple.com/ph/app/hazeover-distraction-dimmer/id430798174?mt=12)
+* [HazeOver](https://hazeover.com) - Застосунок, який затемнює вікна фонових програм, щоб ви могли більше зосередитися на своєму основному завданні! [![App Store][app-store Icon]](https://apps.apple.com/ph/app/hazeover-distraction-dimmer/id430798174?mt=12)
 * [Hook for Mac](https://hookproductivity.com/) - Швидко та легко зв'язуйте файли разом, дозволяючи знаходити будь-що пов'язане за допомогою простої комбінації клавіш.
-* [Hungrymark](https://zhengying.github.io/hungrymark) - Корисний додаток для створення закладок для ваших файлів, папок та вебсторінок, швидкий доступ до закладок через рядок меню  [![App Store][app-store Icon]](https://apps.apple.com/us/app/hungrymark/id1482778901?l=en&mt=12)
+* [Hungrymark](https://zhengying.github.io/hungrymark) - Корисний застосунок для створення закладок для ваших файлів, папок та вебсторінок, швидкий доступ до закладок через рядок меню  [![App Store][app-store Icon]](https://apps.apple.com/us/app/hungrymark/id1482778901?l=en&mt=12)
 * [Hyperkey](https://hyperkey.app/) - Дозволяє перетворити клавішу Caps Lock або будь-яку клавішу-модифікатор на клавішу Hyper, всі чотири модифікатори разом: ⌃⌥⌘⇧. ![Freeware][Freeware Icon]
-* [iCMD](https://icmd.app) - Нечіткий пошук у рядку меню та емуляція vim/easymotion, яка працює глобально для кожного нативного додатка MacOS.
-* [Journey Navigation](https://gowithjourney.com) - Потужний додаток для планування маршрутів з погодою вздовж маршруту, сповіщеннями про затори, покроковими вказівками та іншим. [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-navigation/id1662059644)
+* [iCMD](https://icmd.app) - Нечіткий пошук у рядку меню та емуляція vim/easymotion, яка працює глобально для кожного нативного застосунку MacOS.
+* [Journey Navigation](https://gowithjourney.com) - Потужний застосунок для планування маршрутів з погодою вздовж маршруту, сповіщеннями про затори, покроковими вказівками та іншим. [![App Store][app-store Icon]](https://apps.apple.com/us/app/journey-navigation/id1662059644)
 * [Karabiner](https://pqrs.org/osx/karabiner/) - Потужний і стабільний налаштувач клавіатури для OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/tekezo/Karabiner)
 * [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy) - Утиліта для клавіатурних скорочень для macOS, якої не вистачало. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zenangst/KeyboardCowboy)
 * [Keyboard Maestro](http://www.keyboardmaestro.com) - Автоматизуйте рутинні дії на основі тригерів з клавіатури, меню, місцезнаходження, доданих пристроїв тощо.
-* [Keytty](http://keytty.com) - Додаток, щоб тримати руки на клавіатурі. Переміщуйте, клікайте, прокручуйте, перетягуйте та робіть більше кількома натисканнями.
+* [Keytty](http://keytty.com) - Застосунок, щоб тримати руки на клавіатурі. Переміщуйте, клікайте, прокручуйте, перетягуйте та робіть більше кількома натисканнями.
 * [Launchy](https://apple.co/3PLI2AH) - Лаунчер та перемикач програм, що використовує радіальне меню.
 * [Lazy](https://www.lazy-app.com/) - Команди, керовані клавіатурою, для керування оточенням безпосередньо з вашого mac.
 * [Linear Mouse](https://linearmouse.app/) - Повний контроль над мишею. Змінюйте швидкість, напрямок прокручування, тип вказівника та багато іншого. [![Open-Source Software][OSS Icon]](https://github.com/linearmouse/linearmouse)
 * [Macaify](https://macaify.com) - Швидке використання ChatGPT, легкий, чистий, орієнтований на клавіатуру. ![Freeware][Freeware Icon]
 * [Mac Mouse Fix](https://www.mousefix.org/) - Простий спосіб зробити вашу мишу кращою. [![Open-Source Software][OSS Icon]](https://github.com/noah-nuebling/mac-mouse-fix) ![Freeware][Freeware Icon]
 * [Memo Widget](https://sindresorhus.com/memo-widget) - Липкі нотатки на робочому столі. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6465682248)
-* [MindMac](https://mindmac.app/) - Багатофункціональний та конфіденційний нативний додаток ChatGPT для використання OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter в одному місці.
+* [MindMac](https://mindmac.app/) - Багатофункціональний та конфіденційний нативний застосунок ChatGPT для використання OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter в одному місці.
 * [Mos](https://mos.caldis.me/) - Простий інструмент може запропонувати плавне прокручування та змінити напрямок прокручування миші на вашому Mac. [![Open-Source Software][OSS Icon]](https://github.com/Caldis/Mos) ![Freeware][Freeware Icon]
 * [MacPacker](https://macpacker.app) - Менеджер архівів, що підтримує попередній перегляд та вилучення архівних файлів [![Open-Source Software][OSS Icon]](https://github.com/sarensw/macpacker) ![Freeware][Freeware Icon]
 * [Magic Switch](https://magic-switch.com/) - Перемикайте Magic Keyboard, Magic Mouse та Magic Trackpad між кількома Mac з різними Apple ID.
@@ -1153,14 +1153,14 @@
 * [Selectric](https://selectric.io/) - Приватна персональна пошукова система для ваших електронних листів, документів та повідомлень. Шукайте в Gmail, Outlook, Drive, Dropbox, Teams, Slack та інших програмах прямо з комп'ютера.
 * [SensibleSideButtons](http://sensible-side-buttons.archagon.net) - Використовуйте бічні кнопки миші для переміщення вперед і назад у багатьох програмах, як у Windows. [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
 * [skhd](https://github.com/koekeishiya/skhd) - Простий демон гарячих клавіш для macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/skhd)
-* [Strategr](https://khrykin.github.io/strategr/) - Додаток для тайм-менеджменту без зайвої метушні. Stategr допомагає максимізувати вашу продуктивність, надаючи найшвидший та найефективніший спосіб таймбоксингу вашого дня. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/khrykin/StrategrDesktop)
+* [Strategr](https://khrykin.github.io/strategr/) - Застосунок для тайм-менеджменту без зайвої метушні. Stategr допомагає максимізувати вашу продуктивність, надаючи найшвидший та найефективніший спосіб таймбоксингу вашого дня. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/khrykin/StrategrDesktop)
 * [SwiftBiu](https://swiftbiu.com/) - SwiftBiu — це інструмент ефективності тексту для macOS, виберіть текст у будь-якій програмі, і спливаюча панель інструментів, що налаштовується, зробить звичайні операції "одним кроком". Підтримує мультимодальний ШІ (text-to-text, text-to-graph), плагіни AppleScript/javascript, аплети розширень html. [![App Store][app-store Icon]](https://apps.apple.com/cn/app/swiftbiu/id6754772331?mt=12)
 * [Time Out](https://www.dejal.com/timeout/) - Легкі нагадування про перерву, з мікроперервами та гнучким налаштуванням, якщо ви цього хочете. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/time-out-break-reminders/id402592703?mt=12)
 * [TimeScribe](https://timescribe.app/) - Простий і безкоштовний облік робочого часу. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/WINBIGFOX/TimeScribe)
 * [Timing](https://timingapp.com/) - Автоматичне відстеження часу та продуктивності для Mac. Допомагає вам не відхилятися від роботи та гарантує, що жодна оплачувана година не буде втрачена, якщо ви виставляєте рахунок погодинно.
 * [Trello](https://trello.com) - Інструмент співпраці, який організовує ваші проєкти в Канбан-дошки.![Freeware][Freeware Icon][![App Store][app-store Icon]](https://itunes.apple.com/app/trello/id1278508951?ls=1&mt=12)
 * [Ukelele](http://scripts.sil.org/ukelele) - Редактор розкладок клавіатури Unicode.
-* [Velja](https://sindresorhus.com/velja) - Вибір браузера, який дозволяє відкривати посилання в певному браузері або десктопному додатку. [![App Store][app-store Icon]](https://apps.apple.com/app/id1607635845)
+* [Velja](https://sindresorhus.com/velja) - Вибір браузера, який дозволяє відкривати посилання в певному браузері або десктопному застосунку. [![App Store][app-store Icon]](https://apps.apple.com/app/id1607635845)
 * [xScope](http://xscopeapp.com/) - Потужний набір інструментів, ідеальний для вимірювання, інспектування та тестування графіки та макетів на екрані.
 * [Z](https://github.com/rupa/z) - Потужний спосіб легкої навігації, вводячи лише рядок назви каталогу в терміналі замість введення точного розташування каталогу.
 
@@ -1173,7 +1173,7 @@
 * [Assignee](https://assignee.app) - Простий, миттєвий перемикач програм. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1491598904?pt=120234215&ct=awesome-mac&mt=8)
 * [contexts](https://contexts.co/) - Забезпечує більше можливостей, ніж нативний Mac Dock. Особливо, коли у вас кілька екранів, це може допомогти вам перемикатися швидше.
 * [DockDoor](https://dockdoor.net) - Безкоштовний перегляд вікон та alt-tab з відкритим кодом для macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ejbills/DockDoor)
-* [Dockit](https://dockit-docs.pages.dev) - Додаток, який може прикріпити будь-яке вікно до краю екрана. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/XiCheng148/Dockit)
+* [Dockit](https://dockit-docs.pages.dev) - Застосунок, який може прикріпити будь-яке вікно до краю екрана. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/XiCheng148/Dockit)
 * [Dissolv](https://www.7sols.com/dissolv/) - Приховуйте та закривайте неактивні програми. [![App Store][app-store Icon]](https://apps.apple.com/app/dissolv/id1640893012)
 * [Divvy](http://mizage.com/divvy/) - Керування вікнами у найкращому вигляді з дивовижною системою Divvy Grid.
 * [Hummingbird](https://finestructure.co/hummingbird) - Легко переміщуйте та змінюйте розмір вікон без кліків миші, з будь-якого місця у вікні. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/finestructure/Hummingbird)
@@ -1186,11 +1186,11 @@
 * [MakeItHome](https://github.com/Geckos-Ink/MakeItHome) - Розширює інтерфейс macOS, дозволяючи вам отримати доступ курсором "за екраном", розширення інтерфейсу для доступу до швидких дій, переважно швидкого перемикання найбільш використовуваних запущених програм. ![Open-Source Software][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/it/app/makeithome-screen-extender/id6444596296?l=en-GB&mt=12)
 * [Moom](http://manytricks.com/moom/) - Дозволяє легко переміщувати та масштабувати вікна або переміщувати їх на інший дисплей — використовуючи мишу або клавіатуру.
 * [rcmd](https://lowtechguys.com/rcmd/) - Використовуйте клавішу <kbd>⌘ Правий Command</kbd>, щоб перемикати програми на основі їх назви. [![App Store][app-store Icon]](https://apps.apple.com/us/app/rcmd-app-switcher/id1596283165)
-* [Rectangle-app](https://github.com/rxhanson/Rectangle) - Rectangle — це додаток для керування вікнами на основі Spectacle, написаний на Swift. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rxhanson/Rectangle)
+* [Rectangle-app](https://github.com/rxhanson/Rectangle) - Rectangle — це застосунок для керування вікнами на основі Spectacle, написаний на Swift. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rxhanson/Rectangle)
 * [ShiftIt](https://github.com/fikovnik/ShiftIt) - Керування розміром та положенням вікон в OSX. [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon]
 * [Sidebar](http://sidebarapp.net/) - Сучасна заміна Dock для вашого Mac.
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - Потужне керування вікнами, орієнтоване на клавіатуру.
-* [Slate](https://github.com/jigish/slate) - Додаток для керування вікнами, схожий на Divvy та SizeUp (тільки кращий і безкоштовний!). (**Потребує файл конфігурації**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jigish/slate)
+* [Slate](https://github.com/jigish/slate) - Застосунок для керування вікнами, схожий на Divvy та SizeUp (тільки кращий і безкоштовний!). (**Потребує файл конфігурації**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jigish/slate)
 * [Swift Shift](https://swiftshift.app) - Використовуйте мишу з комбінацією клавіш, щоб швидко переміщувати та змінювати розмір вікон. Пропонує опції для налаштування областей перетягування та поведінки миші. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/pablopunk/swiftshift)
 * [Tiles](https://freemacsoft.net/tiles/) - Легко реорганізовуйте вікна, перетягуючи їх до країв екрана, використовуючи комбінації клавіш або рядок меню. ![Freeware][Freeware Icon]
 * [Topit](https://github.com/lihaoyun6/Topit) - Закріпити будь-яке вікно зверху екрана [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/Topit) ![Freeware][Freeware Icon]
@@ -1208,7 +1208,7 @@
 * [Keeweb](https://keeweb.info/) - Безкоштовний, кросплатформний менеджер паролів, сумісний з KeePass. [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) ![Freeware][Freeware Icon]
 * [KeepassXC](https://keepassxc.org/) - Безкоштовний кросплатформний менеджер паролів з відкритим кодом. [![Open-Source Software][OSS Icon]](https://github.com/keepassxreboot/keepassxc) ![Freeware][Freeware Icon]
 * [MacPass](https://macpass.github.io/) - Клієнт KeePass для Mac OS з відкритим кодом. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mstarke/MacPass)
-* [SafeInCloud](https://safe-in-cloud.com/en/) - Кросплатформне керування паролями, недорогий додаток! [![App Store][app-store Icon]](https://itunes.apple.com/app/safeincloud-password-manager/id883070818)
+* [SafeInCloud](https://safe-in-cloud.com/en/) - Кросплатформне керування паролями, недорогий застосунок! [![App Store][app-store Icon]](https://itunes.apple.com/app/safeincloud-password-manager/id883070818)
 * [Strongbox](https://strongboxsafe.com/) - Безпечне керування паролями для iOS та MacOS. Відкритий код. Сумісний з KeePass та Password Safe. [![Open-Source Software][OSS Icon]](https://github.com/strongbox-password-safe/Strongbox) [![App Store][app-store Icon]](https://apps.apple.com/us/app/strongbox/id1270075435?mt=12)
 * [Swifty](https://getswifty.pro/) - Безкоштовний Offline-first менеджер паролів для MacOS, Windows та Linux. [![Open-Source Software][OSS Icon]](https://github.com/swiftyapp/swifty) ![Freeware][Freeware Icon]
 
@@ -1221,7 +1221,7 @@
 * [FlowVision](https://github.com/netdcy/FlowVision) - Переглядач зображень у стилі водоспаду для macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netdcy/FlowVision)
 * [fman](https://fman.io) - Перший двопанельний файловий менеджер, що інтегрує функції з Sublime Text.
 * [ForkLift](http://binarynights.com/forklift/) - Найдосконаліший двопанельний файловий менеджер та клієнт передачі файлів для macOS.
-* [Path Finder](http://www.cocoatech.com/pathfinder/) - Додаток для керування файлами.
+* [Path Finder](http://www.cocoatech.com/pathfinder/) - Застосунок для керування файлами.
 * [QSpace](https://qspace.awehunt.com) - Чистий та ефективний багатовіконний файловий менеджер. [![App Store][app-store Icon]](https://apps.apple.com/us/app/id1469774098)
 * [RClick](https://github.com/wflixu/RClick) - Додайте нову функціональність до контекстного меню Finder macOS. [![Open-Source Software][OSS Icon]](https://github.com/wflixu/RClick) ![Freeware][Freeware Icon]
 * [TotalFinder](http://totalfinder.binaryage.com/) - Заміна Finder у стилі Chrome.
@@ -1233,13 +1233,13 @@
 * [AI Actions](https://sindresorhus.com/ai-actions) - Дії ШІ для програми "Швидкі команди". ![Freeware][Freeware Icon]
 * [DisplayBuddy](https://displaybuddy.app) - Керуйте яскравістю, контрастністю, джерелом вхідного сигналу та іншим вашого зовнішнього дисплея безпосередньо з вашого Mac.
 * [f.lux](https://justgetflux.com/) - Змушує колір дисплея вашого комп'ютера адаптуватися до часу доби. ![Freeware][Freeware Icon]
-* [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - Додаток macOS з відкритим кодом, який дозволяє швидко перемикати фільтр відтінків сірого прямо з рядка меню або за допомогою комбінації клавіш (⌥⌘G). [![Open-Source Software][OSS Icon]](https://github.com/rkbhochalya/grayscale-mode) ![Freeware][Freeware Icon]
+* [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - Застосунок macOS з відкритим кодом, який дозволяє швидко перемикати фільтр відтінків сірого прямо з рядка меню або за допомогою комбінації клавіш (⌥⌘G). [![Open-Source Software][OSS Icon]](https://github.com/rkbhochalya/grayscale-mode) ![Freeware][Freeware Icon]
 * [Hyperduck](https://sindresorhus.com/hyperduck) - Отримуйте посилання з ваших пристроїв iOS та visionOS. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168)
 * [KeyCastr](https://github.com/keycastr/keycastr) - Візуалізатор натискань клавіш з відкритим кодом. [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [Luminescent](https://naden.co) - Поверніть гарячі клавіші підсвічування клавіатури для MacBook.
 * [Lunar](https://lunar.fyi/) - Допомагає налаштувати яскравість, контрастність та гучність вашого зовнішнього дисплея. [![Open-Source Software][OSS Icon]](https://github.com/alin23/Lunar) ![Freeware][Freeware Icon]
-* [Shifty](http://shifty.natethompson.io) - Додаток рядка меню macOS, який надає більше контролю над Night Shift. [![Open-Source Software][OSS Icon]](https://github.com/thompsonate/Shifty)
-* [Snap](http://indragie.com/snap) - Запускайте додаток в одну мить. Надзвичайно просте керування ярликами. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id418073146)
+* [Shifty](http://shifty.natethompson.io) - Застосунок рядка меню macOS, який надає більше контролю над Night Shift. [![Open-Source Software][OSS Icon]](https://github.com/thompsonate/Shifty)
+* [Snap](http://indragie.com/snap) - Запускайте застосунок в одну мить. Надзвичайно просте керування ярликами. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id418073146)
 * [Shareful](https://sindresorhus.com/shareful) - Покращте системне меню "Поділитися" діями копіювання, збереження та відкриття. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1522267256)
 * [Mouse Jiggler for Mac](https://mousejigglermac.com) - Запобігайте переходу Mac у режим сну за допомогою Mac Mouse Mover. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6740313656)
 
@@ -1289,8 +1289,8 @@
 
 ## Ігрове програмне забезпечення
 
-* [OpenEmu](http://openemu.org/) - Чудовий емулятор відеоігрових консолей, підтримує багато різних емуляторів в одному додатку (наприклад, Sony PSP, GameBoy, NDS тощо). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/OpenEmu/OpenEmu)
-* [PlayCover](https://github.com/PlayCover/PlayCover) - Запускайте додатки та ігри iOS на Mac з Apple Silicon за допомогою миші, клавіатури та контролера. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PlayCover/PlayCover)
+* [OpenEmu](http://openemu.org/) - Чудовий емулятор відеоігрових консолей, підтримує багато різних емуляторів в одному застосунку (наприклад, Sony PSP, GameBoy, NDS тощо). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/OpenEmu/OpenEmu)
+* [PlayCover](https://github.com/PlayCover/PlayCover) - Запускайте застосунки та ігри iOS на Mac з Apple Silicon за допомогою миші, клавіатури та контролера. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PlayCover/PlayCover)
 * [Porting Kit](http://portingkit.com/) - Встановлюйте ігри Windows® на ваш Mac. ![Freeware][Freeware Icon]
 * [PPSSPP](https://www.ppsspp.org) - Чудовий емулятор PSP для будь-якої ОС, про яку ви можете мріяти! [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hrydgard/ppsspp)
 * [RPCS3](https://rpcs3.net) - Емулятор PlayStation 3 з відкритим кодом [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/RPCS3/rpcs3)
@@ -1306,7 +1306,7 @@
 * [RealVNC](https://www.realvnc.com) - Оригінальне та найкраще програмне забезпечення для віддаленого доступу на настільних та мобільних пристроях.
 * [RoyalTSX](https://www.royalapps.com/ts/mac/features) - Royal TSX — ідеальний інструмент для системних інженерів та інших IT-фахівців, яким потрібен віддалений доступ до систем з різними протоколами. ![Freeware][Freeware Icon]
 * [RustDesk](https://rustdesk.com/) - Ще одне програмне забезпечення для віддаленого робочого столу. [![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk) ![Freeware][Freeware Icon]
-* [Steam Link](https://apps.apple.com/us/app/steam-link/id1246969117) - Додаток Steam Link дозволяє грати у ваші ігри Steam на всіх ваших комп'ютерах. ![Freeware][Freeware Icon]
+* [Steam Link](https://apps.apple.com/us/app/steam-link/id1246969117) - Застосунок Steam Link дозволяє грати у ваші ігри Steam на всіх ваших комп'ютерах. ![Freeware][Freeware Icon]
 * [Sunshine](https://github.com/LizardByte/Sunshine) - Хост ігрового стрімінгу для самостійного розміщення для Moonlight. [![Open-Source Software][OSS Icon]](https://github.com/LizardByte/Sunshine) ![Freeware][Freeware Icon]
 * [TeamViewer](https://www.teamviewer.com/en) - Пропрієтарний пакет програмного забезпечення для віддаленого керування, спільного використання робочого столу, онлайн-зустрічей, веб-конференцій та передачі файлів між комп'ютерами. ![Freeware][Freeware Icon]
 * [Windows App](https://apps.apple.com/us/app/windows-app/id1295203466) - Підключайтеся до віддаленого ПК або віртуальних програм та робочих столів, наданих вашим адміністратором. ![Freeware][Freeware Icon]
@@ -1319,9 +1319,9 @@
 * [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - Список корисних плагінів [Quick Look](https://en.wikipedia.org/wiki/Quick_Look) для розробників.
 * [Syntax Highlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Розширення Quick Look для підсвічування файлів вихідного коду. - ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
 
-## Сторонні магазини додатків
+## Сторонні магазини застосунків
 
-Якщо ви натрапите на вебсайти, що пропонують піратське програмне забезпечення або кряки, будь ласка, повідомте [ТУТ](https://github.com/jaywcjlove/awesome-mac/issues/17). Ми любимо додатки, але тільки справжні. :)
+Якщо ви натрапите на вебсайти, що пропонують піратське програмне забезпечення або кряки, будь ласка, повідомте [ТУТ](https://github.com/jaywcjlove/awesome-mac/issues/17). Ми любимо застосунки, але тільки справжні. :)
 
 * [Setapp](https://setapp.sjv.io/c/6018600/343321/5114) - Найкращі безкоштовні та платні програми (такі як CleanShot, Bartender, Paste, TablePlus тощо) в одному наборі лише за 10$/місяць!
 
@@ -1329,20 +1329,20 @@
 
 *Ось деякі з основних сайтів завантаження програмного забезпечення, існує багато сайтів програмного забезпечення для OSX Mac*
 
-* [Applite](https://aerolite.dev/applite) - Зручний графічний додаток для Homebrew Casks. Встановлюйте, оновлюйте та видаляйте програми одним кліком. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/milanvarady/Applite)
+* [Applite](https://aerolite.dev/applite) - Зручний графічний застосунок для Homebrew Casks. Встановлюйте, оновлюйте та видаляйте програми одним кліком. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/milanvarady/Applite)
 * [Cork](https://corkmac.app) - Інтуїтивно зрозумілий та повний графічний інтерфейс Homebrew, написаний на SwiftUI, що підтримує всі функції Homebrew. [![Open-Source Software][OSS Icon]](https://github.com/buresdv/cork)
 * [Homebrew](https://brew.sh/) - Менеджер пакетів, якого не вистачало для macOS. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Homebrew/brew/)
 * [MacPorts](https://www.macports.org/) - Ініціатива спільноти з відкритим кодом для розробки простої у використанні системи для компіляції, встановлення та оновлення програмного забезпечення з відкритим кодом на основі командного рядка, X11 або Aqua в операційній системі Mac OS X. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/macports/)
 * [MacUpdate Desktop](https://www.macupdate.com/) - Спрощує пошук, купівлю та встановлення програм для вашого Mac.
 
-## Сайти завантаження додатків для Mac
+## Сайти завантаження застосунків для Mac
 
 *Ось деякі з основних сайтів завантаження програмного забезпечення, існує багато сайтів програмного забезпечення для OSX Mac*
 
 ### Справжні сайти
 
 * [alternativeTo](http://alternativeto.net/) - Також дуже приємна спільнота. Якщо ви шукаєте альтернативні програми **ДЛЯ** Windows або іншої платформи, перевірте цей сайт.
-* [Slant](https://www.slant.co) - Я особисто рекомендую це. Це платформа, де ви можете порівнювати програми пліч-о-пліч, ви можете отримати ідею, переглядаючи рекомендації інших користувачів. Будь ласка, зробіть свій внесок, якщо знайдете додаток з цього списку!
+* [Slant](https://www.slant.co) - Я особисто рекомендую це. Це платформа, де ви можете порівнювати програми пліч-о-пліч, ви можете отримати ідею, переглядаючи рекомендації інших користувачів. Будь ласка, зробіть свій внесок, якщо знайдете застосунок з цього списку!
 * Також [Quora](https://www.quora.com/), [Reddit](https://www.reddit.com), ви знаєте, що робити.
 * App Shopper：[http://appshopper.com/](http://appshopper.com/)
 * [Buy software, once](https://buyoncesoftware.com/) - Місце, де можна знайти все програмне забезпечення, яке можна купити один раз і володіти ним все життя.
